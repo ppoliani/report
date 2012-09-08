@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.10.19)  7 SEP 2012 14:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.10.19)  8 SEP 2012 15:33
 entering extended mode
 **C:/Users/Boliev/Documents/αρχεια*word/ECS/MSc*Web*Technology*Books/Dissertati
-on/report/Thesis*Template/Chapters/Chapter1.tex
+on/report/Thesis*Template/Chapters/Chapter3.tex
 
 ("C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertati
-on/report/Thesis Template/Chapters/Chapter1.tex"
+on/report/Thesis Template/Chapters/Chapter3.tex"
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -18,11 +18,11 @@ sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
 ! Undefined control sequence.
 l.3 \chapter
-            {Background} % Write in your own chapter title
+            {Provenance in our Application} % Write in your own chapter title
 ? 
 ! Emergency stop.
 l.3 \chapter
-            {Background} % Write in your own chapter title
+            {Provenance in our Application} % Write in your own chapter title
 End of file on the terminal!
 
  
@@ -33,5 +33,5 @@ Here is how much of TeX's memory you used:
  3395 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 5i,0n,1p,182b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5i,0n,1p,201b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

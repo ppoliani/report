@@ -1,8 +1,481 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{53}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Tan()]{reference5}
+Wang-Chiew Tan.
+\newblock {Provenance in Databases: Past, Current, and Future}.
+\newblock URL \url{http://users.soe.ucsc.edu/\~{}wctan/publications.html}.
+
+\bibitem[Moreau(2010)]{reference1}
+Luc Moreau.
+\newblock The foundations for provenance on the web.
+\newblock \emph{Found. Trends Web Sci.}, 2\penalty0 (2\&\#8211;3):\penalty0
+  99--241, February 2010.
+\newblock ISSN 1555-077X.
+\newblock \doi{10.1561/1800000010}.
+\newblock URL \url{http://dx.doi.org/10.1561/1800000010}.
+
+\bibitem[Moreau et~al.(2008{\natexlab{a}})Moreau, Groth, Miles,
+  Vazquez-Salceda, Ibbotson, Jiang, Munroe, Rana, Schreiber, Tan, and
+  Varga]{reference9}
+Luc Moreau, Paul Groth, Simon Miles, Javier Vazquez-Salceda, John Ibbotson,
+  Sheng Jiang, Steve Munroe, Omer Rana, Andreas Schreiber, Victor Tan, and
+  Laszlo Varga.
+\newblock The provenance of electronic data.
+\newblock \emph{Commun. ACM}, 51\penalty0 (4):\penalty0 52--58, April
+  2008{\natexlab{a}}.
+\newblock ISSN 0001-0782.
+\newblock \doi{10.1145/1330311.1330323}.
+\newblock URL \url{http://doi.acm.org/10.1145/1330311.1330323}.
+
+\bibitem[Bose and Frew(2005)]{reference6:5}
+Rajendra Bose and James Frew.
+\newblock Lineage retrieval for scientific data processing: a survey.
+\newblock \emph{ACM Comput. Surv.}, 37\penalty0 (1):\penalty0 1--28, March
+  2005.
+\newblock ISSN 0360-0300.
+\newblock \doi{10.1145/1057977.1057978}.
+\newblock URL \url{http://doi.acm.org/10.1145/1057977.1057978}.
+
+\bibitem[Bowers et~al.(2007)Bowers, McPhillips, Wu, and
+  Ludäscher]{reference6:9}
+Shawn Bowers, Timothy McPhillips, Martin Wu, and Bertram Ludäscher.
+\newblock Project histories: Managing data provenance across
+  collection-oriented scientific workflow runs.
+\newblock In Sarah Cohen-Boulakia and Val Tannen, editors, \emph{Data
+  Integration in the Life Sciences}, volume 4544 of \emph{Lecture Notes in
+  Computer Science}, pages 122--138. Springer Berlin Heidelberg, 2007.
+\newblock ISBN 978-3-540-73254-9.
+\newblock \doi{10.1007/978-3-540-73255-6_12}.
+\newblock URL \url{http://dx.doi.org/10.1007/978-3-540-73255-6_12}.
+
+\bibitem[Dai et~al.(2008)Dai, Lin, Bertino, and Kantarcioglu]{reference36}
+Chenyun Dai, Dan Lin, Elisa Bertino, and Murat Kantarcioglu.
+\newblock An approach to evaluate data trustworthiness based on data
+  provenance.
+\newblock In Willem Jonker and Milan Petkovic, editors, \emph{Secure Data
+  Management}, volume 5159 of \emph{Lecture Notes in Computer Science}, pages
+  82--98. Springer Berlin / Heidelberg, 2008.
+\newblock ISBN 978-3-540-85258-2.
+\newblock URL \url{http://dx.doi.org/10.1007/978-3-540-85259-96}.
+\newblock 10.1007/978-3-540-85259-96.
+
+\bibitem[Oinn et~al.(2004)Oinn, Addis, Ferris, Marvin, Senger, Greenwood,
+  Carver, Glover, Pocock, Wipat, and Li]{reference6:18}
+Tom Oinn, Matthew Addis, Justin Ferris, Darren Marvin, Martin Senger, Mark
+  Greenwood, Tim Carver, Kevin Glover, Matthew~R. Pocock, Anil Wipat, and Peter
+  Li.
+\newblock Taverna: a tool for the composition and enactment of bioinformatics
+  workflows.
+\newblock \emph{Bioinformatics}, 20\penalty0 (17):\penalty0 3045--3054, 2004.
+\newblock \doi{10.1093/bioinformatics/bth361}.
+\newblock URL
+  \url{http://bioinformatics.oxfordjournals.org/content/20/17/3045.abstract}.
+
+\bibitem[Bowers and Ludäscher(2005)]{reference6:6}
+Shawn Bowers and Bertram Ludäscher.
+\newblock Actor-oriented design of scientific workflows.
+\newblock In \emph{In 24st Intl. Conference on Conceptual Modeling}. Springer,
+  2005.
+
+\bibitem[Freire et~al.(2006)Freire, Silva, Callahan, Santos, Scheidegger, and
+  Vo]{reference6:13}
+Juliana Freire, Cl\'{a}udio~T. Silva, Steven~P. Callahan, Emanuele Santos,
+  Carlos~E. Scheidegger, and Huy~T. Vo.
+\newblock Managing rapidly-evolving scientific workflows.
+\newblock In \emph{Proceedings of the 2006 international conference on
+  Provenance and Annotation of Data}, IPAW'06, pages 10--18, Berlin,
+  Heidelberg, 2006. Springer-Verlag.
+\newblock ISBN 3-540-46302-X, 978-3-540-46302-3.
+\newblock \doi{10.1007/11890850_2}.
+\newblock URL \url{http://dx.doi.org/10.1007/11890850_2}.
+
+\bibitem[Foster et~al.(2002)Foster, Vockler, Wilde, and Zhao]{reference6:12}
+I.~Foster, J.~Vockler, M.~Wilde, and Yong Zhao.
+\newblock Chimera: a virtual data system for representing, querying, and
+  automating data derivation.
+\newblock In \emph{Scientific and Statistical Database Management, 2002.
+  Proceedings. 14th International Conference on}, pages 37 -- 46, 2002.
+\newblock \doi{10.1109/SSDM.2002.1029704}.
+
+\bibitem[Miles et~al.(2007)Miles, Deelman, Groth, Vahi, Mehta, and
+  Moreau]{reference1:278}
+Simon Miles, Ewa Deelman, Paul Groth, Karan Vahi, Gaurang Mehta, and Luc
+  Moreau.
+\newblock Connecting scientific data to scientific experiments with provenance.
+\newblock In \emph{Proceedings of the Third IEEE International Conference on
+  e-Science and Grid Computing}, E-SCIENCE '07, pages 179--186, Washington, DC,
+  USA, 2007. IEEE Computer Society.
+\newblock ISBN 0-7695-3064-8.
+\newblock \doi{10.1109/E-SCIENCE.2007.22}.
+\newblock URL \url{http://dx.doi.org/10.1109/E-SCIENCE.2007.22}.
+
+\bibitem[Davidson and Freire(2008)]{reference6}
+Susan~B. Davidson and Juliana Freire.
+\newblock Provenance and scientific workflows: challenges and opportunities.
+\newblock In \emph{Proceedings of the 2008 ACM SIGMOD international conference
+  on Management of data}, SIGMOD '08, pages 1345--1350, New York, NY, USA,
+  2008. ACM.
+\newblock ISBN 978-1-60558-102-6.
+\newblock \doi{10.1145/1376616.1376772}.
+\newblock URL \url{http://doi.acm.org/10.1145/1376616.1376772}.
+
+\bibitem[Buneman et~al.(2008)Buneman, Cheney, Tan, and
+  Vansummeren]{reference1:53}
+Peter Buneman, James Cheney, Wang-Chiew Tan, and Stijn Vansummeren.
+\newblock Curated databases.
+\newblock In \emph{Proceedings of the twenty-seventh ACM SIGMOD-SIGACT-SIGART
+  symposium on Principles of database systems}, PODS '08, pages 1--12, New
+  York, NY, USA, 2008. ACM.
+\newblock ISBN 978-1-60558-152-1.
+\newblock \doi{10.1145/1376916.1376918}.
+\newblock URL \url{http://doi.acm.org/10.1145/1376916.1376918}.
+
+\bibitem[Buneman et~al.(2001)Buneman, Khanna, and Tan]{reference3}
+Peter Buneman, Sanjeev Khanna, and Wang~Chiew Tan.
+\newblock Why and where: A characterization of data provenance.
+\newblock In \emph{Proceedings of the 8th International Conference on Database
+  Theory}, ICDT '01, pages 316--330, London, UK, UK, 2001. Springer-Verlag.
+\newblock ISBN 3-540-41456-8.
+\newblock URL \url{http://dl.acm.org/citation.cfm?id=645504.656274}.
+
+\bibitem[Cui and Widom(1999)]{reference3:7}
+Yingwei Cui and Jennifer Widom.
+\newblock Practical lineage tracing in data warehouses.
+\newblock In \emph{In ICDE}, pages 367--378, 1999.
+
+\bibitem[Green et~al.(2007)Green, Karvounarakis, and Tannen]{reference1:188}
+Todd~J. Green, Grigoris Karvounarakis, and Val Tannen.
+\newblock Provenance semirings.
+\newblock In \emph{Proceedings of the twenty-sixth ACM SIGMOD-SIGACT-SIGART
+  symposium on Principles of database systems}, PODS '07, pages 31--40, New
+  York, NY, USA, 2007. ACM.
+\newblock ISBN 978-1-59593-685-1.
+\newblock \doi{10.1145/1265530.1265535}.
+\newblock URL \url{http://doi.acm.org/10.1145/1265530.1265535}.
+
+\bibitem[Simmhan et~al.(2005)Simmhan, Plale, and Gannon]{reference4}
+Yogesh~L. Simmhan, Beth Plale, and Dennis Gannon.
+\newblock A survey of data provenance in e-science.
+\newblock \emph{SIGMOD Rec.}, 34\penalty0 (3):\penalty0 31--36, September 2005.
+\newblock ISSN 0163-5808.
+\newblock \doi{10.1145/1084805.1084812}.
+\newblock URL \url{http://doi.acm.org/10.1145/1084805.1084812}.
+
+\bibitem[Goble(2002)]{reference4:14}
+Carole Goble.
+\newblock Musing on provenance, workflow and (semantic web) annotations for
+  bioinfomatics.
+\newblock In \emph{Data Provenance/Derivation Workshop 2002}, 2002.
+
+\bibitem[Greenwood et~al.(2003)Greenwood, Goble, Stevens, Zhao, Addis, Marvin,
+  Moreau, and Oinn]{reference4:8}
+Mark Greenwood, Carole Goble, Robert Stevens, Jun Zhao, Matthew Addis, Darren
+  Marvin, Luc Moreau, and Tom Oinn.
+\newblock Provenance of e-science experiments - experience from bioinformatics.
+\newblock In \emph{The UK OST e-Science second All Hands Meeting 2003
+  (AHM'03)}, pages 223--226, 2003.
+\newblock URL \url{http://eprints.soton.ac.uk/259468/}.
+\newblock Event Dates: September.
+
+\bibitem[Deelman et~al.(2010)Deelman, Berriman, Chervenak, Corcho, Groth, and
+  Moreau]{reference8}
+Ewa Deelman, G.~Bruce Berriman, Ann~L. Chervenak, {\'O}scar Corcho, Paul~T.
+  Groth, and Luc Moreau.
+\newblock Metadata and provenance management.
+\newblock \emph{CoRR}, abs/1005.2643, 2010.
+
+\bibitem[Miles et~al.(2008)Miles, Groth, Munroe, Jiang, Assandri, and
+  Moreau]{reference8:55}
+Simon Miles, Paul Groth, Steve Munroe, Sheng Jiang, Thibaut Assandri, and Luc
+  Moreau.
+\newblock Extracting causal graphs from an open provenance data model.
+\newblock \emph{Concurr. Comput. : Pract. Exper.}, 20\penalty0 (5):\penalty0
+  577--586, April 2008.
+\newblock ISSN 1532-0626.
+\newblock \doi{10.1002/cpe.v20:5}.
+\newblock URL \url{http://dx.doi.org/10.1002/cpe.v20:5}.
+
+\bibitem[Karmarkar(1984)]{reference8:56}
+N.~Karmarkar.
+\newblock A new polynomial-time algorithm for linear programming.
+\newblock In \emph{Proceedings of the sixteenth annual ACM symposium on Theory
+  of computing}, STOC '84, pages 302--311, New York, NY, USA, 1984. ACM.
+\newblock ISBN 0-89791-133-4.
+\newblock \doi{10.1145/800057.808695}.
+\newblock URL \url{http://doi.acm.org/10.1145/800057.808695}.
+
+\bibitem[Groth et~al.(2006)Groth, Jiang, Miles, Munroe, Tan, Tsasakou, and
+  Moreau]{reference10}
+Paul Groth, Sheng Jiang, Simon Miles, Steve Munroe, Victor Tan, Sofia Tsasakou,
+  and Luc Moreau.
+\newblock {An architecture for provenance systems}.
+\newblock Technical report, University of Southampton, November 2006.
+\newblock URL \url{http://eprints.ecs.soton.ac.uk/13216/}.
+
+\bibitem[Moreau et~al.(2011)Moreau, Clifford, Freire, Futrelle, Gil, Groth,
+  Kwasnikowska, Miles, Missier, Myers, Plale, Simmhan, Stephan, and den
+  Bussche]{reference13}
+Luc Moreau, Ben Clifford, Juliana Freire, Joe Futrelle, Yolanda Gil, Paul
+  Groth, Natalia Kwasnikowska, Simon Miles, Paolo Missier, Jim Myers, Beth
+  Plale, Yogesh Simmhan, Eric Stephan, and Jan~Van den Bussche.
+\newblock The open provenance model core specification (v1.1).
+\newblock \emph{Future Gener. Comput. Syst.}, 27\penalty0 (6):\penalty0
+  743--756, June 2011.
+\newblock ISSN 0167-739X.
+\newblock \doi{10.1016/j.future.2010.07.005}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.future.2010.07.005}.
+
+\bibitem[Moreau et~al.(2008{\natexlab{b}})Moreau, Freire, Futrelle, Mcgrath,
+  Myers, and Paulson]{reference34}
+Luc Moreau, Juliana Freire, Joe Futrelle, Robert~E. Mcgrath, Jim Myers, and
+  Patrick Paulson.
+\newblock Provenance and annotation of data and processes.
+\newblock chapter The Open Provenance Model: An Overview, pages 323--326.
+  Springer-Verlag, Berlin, Heidelberg, 2008{\natexlab{b}}.
+\newblock ISBN 978-3-540-89964-8.
+\newblock \doi{10.1007/978-3-540-89965-5_31}.
+\newblock URL \url{http://dx.doi.org/10.1007/978-3-540-89965-5_31}.
+
+\bibitem[Belhajjame et~al.(2012{\natexlab{a}})Belhajjame, B'Far, Cheney,
+  Coppens, Cresswell, Gil, Groth, Klyne, Lebo, McCusker, Miles, Myers, and
+  Sahoo]{reference15}
+Khalid Belhajjame, Reza B'Far, James Cheney, Sam Coppens, Stephen Cresswell,
+  Yolanda Gil, Paul Groth, Graham Klyne, Timothy Lebo, Jim McCusker, Simon
+  Miles, James Myers, and Satya Sahoo.
+\newblock Prov-dm: The prov data model.
+\newblock W3c working draft, W3C, July 2012{\natexlab{a}}.
+\newblock http://www.w3.org/TR/2012/WD-prov-dm-20120724/.
+
+\bibitem[Belhajjame et~al.(2012{\natexlab{b}})Belhajjame, Cheney, Corsar,
+  Garijo, Soiland-Reyes, Zednik, and Zhao]{prov-ontology}
+Khalid Belhajjame, James Cheney, David Corsar, Daniel Garijo, Stian
+  Soiland-Reyes, Stephan Zednik, and Jun Zhao.
+\newblock Prov-o: The prov ontology.
+\newblock W3c working draft, W3C, July 2012{\natexlab{b}}.
+\newblock http://www.w3.org/TR/2012/WD-prov-o-20120724/.
+
+\bibitem[Cheney and Soiland-Reyes(2012)]{prov-notation}
+James Cheney and Stian Soiland-Reyes.
+\newblock Prov-n: The provenance notation.
+\newblock W3c working draft, W3C, July 2012.
+\newblock http://www.w3.org/TR/2012/WD-prov-n-20120724/.
+
+\bibitem[Cheney et~al.(2012)Cheney, Missier, and Moreau]{prov-constraints}
+James Cheney, Paolo Missier, and Luc Moreau.
+\newblock Constraints of the provenance data model.
+\newblock W3c working draft, W3C, May 2012.
+\newblock http://www.w3.org/TR/2012/WD-prov-constraints-20120503/.
+
+\bibitem[Moreau et~al.(2012)Moreau, Hartig, Simmhan, Myers, Lebo, Belhajjame,
+  and Miles]{prov-AQ}
+Luc Moreau, Olaf Hartig, Yogesh Simmhan, James Myers, Timothy Lebo, Khalid
+  Belhajjame, and Simon Miles.
+\newblock Prov-aq: Provenance access and query.
+\newblock W3c working draft, W3C, June 2012.
+\newblock http://www.w3.org/TR/2012/WD-prov-aq-20120619/.
+
+\bibitem[Belhajjame et~al.(2012{\natexlab{c}})Belhajjame, Deus, Garijo, Klyne,
+  Missier, Soiland-Reyes, and Zednik]{reference14}
+Khalid Belhajjame, Helena Deus, Daniel Garijo, Graham Klyne, Paolo Missier,
+  Stian Soiland-Reyes, and Stephan Zednik.
+\newblock Prov model primer.
+\newblock W3c working draft, W3C, July 2012{\natexlab{c}}.
+\newblock http://www.w3.org/TR/2012/WD-prov-primer-20120724/.
+
+\bibitem[Miles(2006{\natexlab{a}})]{reference19:5}
+Simon Miles.
+\newblock Electronically querying for the provenance of entities.
+\newblock In Luc Moreau and Ian Foster, editors, \emph{Third International
+  Provenance and Annotation Workshop}, volume 4145, pages 184--192. Springer,
+  2006{\natexlab{a}}.
+\newblock URL \url{http://eprints.soton.ac.uk/262567/}.
+\newblock Event Dates: May 2006.
+
+\bibitem[Sandhu and Samarati(1994)]{mac}
+R.S. Sandhu and P.~Samarati.
+\newblock Access control: principle and practice.
+\newblock \emph{Communications Magazine, IEEE}, 32\penalty0 (9):\penalty0 40
+  --48, sept. 1994.
+\newblock ISSN 0163-6804.
+\newblock \doi{10.1109/35.312842}.
+
+\bibitem[Moffett et~al.(1990)Moffett, Sloman, and Twidle]{dag}
+Jonathan Moffett, Morris Sloman, and Kevin Twidle.
+\newblock Specifying discretionary access control policy for distributed
+  systems.
+\newblock \emph{Computer Communications}, 13\penalty0 (9):\penalty0 571 -- 580,
+  1990.
+\newblock ISSN 0140-3664.
+\newblock \doi{10.1016/0140-3664(90)90008-5}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0140366490900085}.
+
+\bibitem[Sandhu et~al.(1996)Sandhu, Coyne, Feinstein, and Youman]{rbac}
+R.S. Sandhu, E.J. Coyne, H.L. Feinstein, and C.E. Youman.
+\newblock Role-based access control models.
+\newblock \emph{Computer}, 29\penalty0 (2):\penalty0 38 --47, feb 1996.
+\newblock ISSN 0018-9162.
+\newblock \doi{10.1109/2.485845}.
+
+\bibitem[Goyal et~al.(2006)Goyal, Pandey, Sahai, and Waters]{abac}
+Vipul Goyal, Omkant Pandey, Amit Sahai, and Brent Waters.
+\newblock Attribute-based encryption for fine-grained access control of
+  encrypted data.
+\newblock In \emph{Proceedings of the 13th ACM conference on Computer and
+  communications security}, CCS '06, pages 89--98, New York, NY, USA, 2006.
+  ACM.
+\newblock ISBN 1-59593-518-5.
+\newblock \doi{10.1145/1180405.1180418}.
+\newblock URL \url{http://doi.acm.org/10.1145/1180405.1180418}.
+
+\bibitem[Stallings(2005)]{cryptography}
+William Stallings.
+\newblock \emph{{Cryptography and Network Security (4th Edition)}}.
+\newblock Prentice Hall, November 2005.
+\newblock ISBN 0131873164.
+\newblock URL
+  \url{http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0131873164}.
+
+\bibitem[Merkle(1990)]{digitalSignatures}
+Ralph Merkle.
+\newblock A certified digital signature.
+\newblock In Gilles Brassard, editor, \emph{Advances in Cryptology — CRYPTO’ 89
+  Proceedings}, volume 435 of \emph{Lecture Notes in Computer Science}, pages
+  218--238. Springer Berlin / Heidelberg, 1990.
+\newblock ISBN 978-0-387-97317-3.
+\newblock URL \url{http://dx.doi.org/10.1007/0-387-34805-021}.
+\newblock 10.1007/0-387-34805-021.
+
+\bibitem[Graham et~al.(2001)Graham, Davis, Simeonov, Boubez, Neyama, and
+  Nakamura]{Graham:2001:BWS:559927}
+Steve Graham, Doug Davis, Simeon Simeonov, Toufic Boubez, Ryo Neyama, and
+  Yuichi Nakamura.
+\newblock \emph{Building Web Services with Java: Making Sense of Xml, Soap,
+  Wsdl, and Uddi}.
+\newblock Sams, Indianapolis, IN, USA, 1st edition, 2001.
+\newblock ISBN 0672321815.
+
+\bibitem[Adams and Lloyd(2002)]{pki}
+Carlisle Adams and Steve Lloyd.
+\newblock \emph{Understanding PKI: Concepts, Standards, and Deployment
+  Considerations}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 2nd
+  edition, 2002.
+\newblock ISBN 0672323915.
+
+\bibitem[Miles(2006{\natexlab{b}})]{reference35}
+Simon Miles.
+\newblock Electronically querying for the provenance of entities.
+\newblock In \emph{Proceedings of the 2006 international conference on
+  Provenance and Annotation of Data}, IPAW'06, pages 184--192, Berlin,
+  Heidelberg, 2006{\natexlab{b}}. Springer-Verlag.
+\newblock ISBN 3-540-46302-X, 978-3-540-46302-3.
+\newblock \doi{10.1007/11890850_19}.
+\newblock URL \url{http://dx.doi.org/10.1007/11890850_19}.
+
+\bibitem[IPCC(2007)]{reference23:1}
+IPCC.
+\newblock Climate change 2007: Synthesis report: Contribution of working groups
+  i, ii and iii to the fourth assessment report of the intergovernmental panel
+  on climate change.
+\newblock 2007.
+
+\bibitem[Wright et~al.(2011{\natexlab{a}})Wright, Kemp, and
+  Williams]{reference23:3}
+Laurence~A. Wright, Simon Kemp, and Ian Williams.
+\newblock 'carbon footprinting': towards a universally accepted definition.
+\newblock \emph{Carbon Management}, 2\penalty0 (1):\penalty0 61--72,
+  2011{\natexlab{a}}.
+\newblock URL \url{http://eprints.soton.ac.uk/210245/}.
+
+\bibitem[Williams et~al.(2012)Williams, Kemp, Coello, Turner, and
+  Wright]{reference23}
+I.D. Williams, Simon Kemp, Jonathan Coello, David~A.. Turner, and Laurence~A.
+  Wright.
+\newblock A beginner's guide to carbon footprinting.
+\newblock \emph{Carbon Management}, 3\penalty0 (1):\penalty0 55--67, February
+  2012.
+\newblock URL \url{http://eprints.soton.ac.uk/210237/}.
+
+\bibitem[Wright et~al.(2011{\natexlab{b}})Wright, Coello, Kemp, and
+  Williams]{reference25}
+Laurence~A. Wright, Jonathan Coello, Simon Kemp, and Ian Williams.
+\newblock Carbon footprinting for climate change management in cities.
+\newblock \emph{Carbon Management}, 2\penalty0 (1):\penalty0 49--60, February
+  2011{\natexlab{b}}.
+\newblock URL \url{http://eprints.soton.ac.uk/186331/}.
+
+\bibitem[Lenzen et~al.(2007)Lenzen, Murray, Sack, and Wiedmann]{reference23:25}
+Manfred Lenzen, Joy Murray, Fabian Sack, and Thomas Wiedmann.
+\newblock Shared producer and consumer responsibility -- theory and practice.
+\newblock \emph{Ecological Economics}, 61\penalty0 (1):\penalty0 27--42, 2007.
+\newblock URL
+  \url{http://EconPapers.repec.org/RePEc:eee:ecolec:v:61:y:2007:i:1:p:27-42}.
+
+\bibitem[HEFCE(2012)]{reference24}
+HEFCE.
+\newblock Measuring scope 3 carbon emissions - transport.
+\newblock 2012.
+
+\bibitem[Hasan et~al.(2007)Hasan, Sion, and Winslett]{reference27}
+Ragib Hasan, Radu Sion, and Marianne Winslett.
+\newblock Introducing secure provenance: problems and challenges.
+\newblock In \emph{Proceedings of the 2007 ACM workshop on Storage security and
+  survivability}, StorageSS '07, pages 13--18, New York, NY, USA, 2007. ACM.
+\newblock ISBN 978-1-59593-891-6.
+\newblock \doi{10.1145/1314313.1314318}.
+\newblock URL \url{http://doi.acm.org/10.1145/1314313.1314318}.
+
+\bibitem[Tan et~al.(2006)Tan, Groth, Miles, Jiang, Munroe, Tsasakou, and
+  Moreau]{reference28}
+Victor Tan, Paul Groth, Simon Miles, Sheng Jiang, Steve Munroe, Sofia Tsasakou,
+  and Luc Moreau.
+\newblock Security issues in a soa-based provenance system.
+\newblock In \emph{Third International Provenance and Annotation Workshop}.
+  Springer, 2006.
+\newblock URL \url{http://eprints.soton.ac.uk/262569/}.
+\newblock Event Dates: May 2006.
+
+\bibitem[Zhao et~al.(2004)Zhao, Wroe, Goble, Stevens, Quan, and
+  Greenwood]{reference29}
+Jun Zhao, Chris Wroe, Carole Goble, Robert Stevens, Dennis Quan, and Mark
+  Greenwood.
+\newblock {Using Semantic Web Technologies for Representing E-science
+  Provenance}.
+\newblock In \emph{The Semantic Web – ISWC 2004}, pages 92--106. 2004.
+\newblock URL \url{http://www.springerlink.com/content/1xag3695fgn78dme}.
+
+\bibitem[Xu et~al.(2005)Xu, Biller, Chen, Tan, Groth, Miles, Ibbotson, and
+  Moreau]{reference30}
+Fenglian Xu, Alexis Biller, Liming Chen, Victor Tan, Paul Groth, Simon Miles,
+  John Ibbotson, and Luc Moreau.
+\newblock A proof of concept design for provenance.
+\newblock Technical report, University of Southampton, March 2005.
+\newblock URL \url{http://eprints.soton.ac.uk/260687/}.
+
+\bibitem[Barbier and Liu(2011)]{reference31}
+Geoffrey Barbier and Huan Liu.
+\newblock Information provenance in social media.
+\newblock In John Salerno, Shanchieh Yang, Dana Nau, and Sun-Ki Chai, editors,
+  \emph{Social Computing, Behavioral-Cultural Modeling and Prediction}, volume
+  6589 of \emph{Lecture Notes in Computer Science}, pages 276--283. Springer
+  Berlin / Heidelberg, 2011.
+\newblock ISBN 978-3-642-19655-3.
+\newblock URL \url{http://dx.doi.org/10.1007/978-3-642-19656-039}.
+\newblock 10.1007/978-3-642-19656-039.
+
+\bibitem[Groth et~al.(2009)Groth, Miles, and Moreau]{reference32}
+Paul Groth, Simon Miles, and Luc Moreau.
+\newblock A model of process documentation to determine provenance in mash-ups.
+\newblock \emph{ACM Trans. Internet Technol.}, 9\penalty0 (1):\penalty0
+  3:1--3:31, February 2009.
+\newblock ISSN 1533-5399.
+\newblock \doi{10.1145/1462159.1462162}.
+\newblock URL \url{http://doi.acm.org/10.1145/1462159.1462162}.
 
 \end{thebibliography}

@@ -1,8 +1,8 @@
-% Chapter 1
+% Chapter 2
 
 \chapter{Background} % Write in your own chapter title
 \label{Background}
-\lhead{Chapter 1. \emph{Background}} % Write in your own chapter title to set the page header
+\lhead{Chapter 2. \emph{Background}} % Write in your own chapter title to set the page header
 
 
 \section{Provenance of Electronic Data}
@@ -12,11 +12,11 @@ The same concept has been applied to digital resources or digital information th
 
 \subsection{Provenance in Scientific Workflows and Curated Databases}
 
-Substantial work on provenance of data has been undertaken by the database, workflow\cite{reference6:5}\cite{reference6:9} and e-science communities.  In particular, the provenance of scientific results can provide proof about the correctness of a result and determine the amount of trust one can place on it\cite{reference5}. Representative examples are workflows in the scientific domain. A workflow [e.g. myGrid/Taverna\cite{reference6:18}, Kepler\cite{reference6:6}, visTrail\cite{reference6:13}, chimera\cite{reference6:12} etc], essentially, has been proved to be a successful way to perform complex data processing tasks. Figure 1.1, illustrates an abstract view of a typical workflow. Boxes are used to indicate data processing steps and arrows illustrate the data flow. Each task may take input data from the preceding task, user interactions or external sources (database, external tools).  During a typical workflow run, the means (e.g. input data, user interactions, user parameters etc.) that are involved in the actual derivation of a result, are not recorded whatsoever.  However, the lack of such provenance information makes the outcome of complex analysis difficult to interpret and reproduce. Thus making these systems provenance-aware will address several issues they suffer from. First of all, scientists will be able to evaluate the correctness of the final workflow output and avoid the duplication of efforts. Furthermore, such provenance information might cater with means for quick troubleshooting or even optimize the whole workflow process\cite{reference1:278}.
+Substantial work on provenance of data has been undertaken by the database, workflow\cite{reference6:5}\cite{reference6:9} and e-science communities.  In particular, the provenance of scientific results can provide proof about the correctness of a result and determine the amount of trust one can place on it\cite{reference5}\cite{reference36}. Representative examples are workflows in the scientific domain. A workflow [e.g. myGrid/Taverna\cite{reference6:18}, Kepler\cite{reference6:6}, visTrail\cite{reference6:13}, chimera\cite{reference6:12} etc], essentially, has been proved to be a successful way to perform complex data processing tasks. Figure 2.1, illustrates an abstract view of a typical workflow. Boxes are used to indicate data processing steps and arrows illustrate the data flow. Each task may take input data from the preceding task, user interactions or external sources (database, external tools).  During a typical workflow run, the means (e.g. input data, user interactions, user parameters etc.) that are involved in the actual derivation of a result, are not recorded whatsoever.  However, the lack of such provenance information makes the outcome of complex analysis difficult to interpret and reproduce. Thus making these systems provenance-aware will address several issues they suffer from. First of all, scientists will be able to evaluate the correctness of the final workflow output and avoid the duplication of efforts. Furthermore, such provenance information might cater with means for quick troubleshooting or even optimize the whole workflow process\cite{reference1:278}.
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure1.pdf}
+		\includegraphics[scale=0.50]{./Figures/chapter2/figure1.pdf}
 		\rule{35em}{0.5pt}
 	\caption[Scientific Workflow]{Scientific Workflow.\cite{reference6}}
 	\label{fig:scientificWorkflow}
@@ -45,7 +45,7 @@ In this section we present a classification of different methods that have been 
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure2.pdf}
+		\includegraphics[scale=0.35]{./Figures/chapter2/figure2.pdf}
 		\rule{35em}{0.5pt}
 	\caption[Taxonomy of Provenance]{Taxonomy of Provenance\cite{reference4}.}
 	\label{fig:provTaxonomy}
@@ -83,7 +83,7 @@ There are two major approaches for computing data provenance\cite{reference5}: (
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure3.pdf}
+		\includegraphics[scale=0.5]{./Figures/chapter2/figure3.pdf}
 		\rule{35em}{0.5pt}
 	\caption[Provenance Represantation]{(a) Non-Annotation (NA) approach, (b) Annotation (A) approach\cite{reference5}.}
 	\label{fig:provRepresentation}
@@ -127,11 +127,11 @@ During a process execution, there are various tasks carried out. For example, di
         During a single execution, a service has a specific internal state. For example, information such as, CPU time used by a service, available space on the disk, user logged in, local time, might be useful to make various interpretations about the computational result.  P-assertions demonstrating all these information are called service-state p-assertions.
 \end{description}
 
-The aforementioned p-assertions describe the steps in the history of a process execution and can be visualized as directed acyclic graphs (see figure 1.4)
+The aforementioned p-assertions describe the steps in the history of a process execution and can be visualized as directed acyclic graphs (see figure 2.4)
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure4.pdf}
+		\includegraphics[scale=0.35]{./Figures/chapter2/figure4.pdf}
 		\rule{35em}{0.5pt}
 	\caption[Provenance Directed Graph]{Provenance Directed Graph\cite{reference9}}
 	\label{fig:provGraph}
@@ -156,11 +156,11 @@ A complete provenance system has to support all these phases of the provenance l
 
 \paragraph{A Conceptual Provenance Architecture}
 
-In the previous section we outlined the four main phases of the provenance (or p-assertion) life cycle. For a system to be able to support those phases, a logical architecture that will consist of appropriate system components, has to be designed. Groth et al.\cite{reference10} suggest generic provenance system architecture (see figure 1.5).
+In the previous section we outlined the four main phases of the provenance (or p-assertion) life cycle. For a system to be able to support those phases, a logical architecture that will consist of appropriate system components, has to be designed. Groth et al.\cite{reference10} suggest generic provenance system architecture (see figure 2.5).
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure5.pdf}
+		\includegraphics[scale=0.80]{./Figures/chapter2/figure5.pdf}
 		\rule{35em}{0.5pt}
 	\caption[Architecture of Provenance-Aware Application]{Architecture of Provenance-Aware Application.\cite{reference10}}
 	\label{fig:provArch}
@@ -198,13 +198,13 @@ It is obvious that the provenance store is the key actor in the provenance lifec
 \subsubsection{Open Provenance Model}
 The provenance data model we presented earlier, describes a shared models for capturing, recording, exchanging and managing provenance information. However, it is primarily bound to SOA applications, that is, to message exchanging systems. The models that we discuss in this section is the first purely technology agnostic provenance data model.
 
-The Open Provenance Model (OPM)\cite{reference13} addresses different provenance interoperability issues by introducing the notion of the provenance interoperability layer\cite{reference1}.
+The Open Provenance Model (OPM)\cite{reference13}\cite{reference34} addresses different provenance interoperability issues by introducing the notion of the provenance interoperability layer\cite{reference1}.
 
-Figure 1.6 illustrates a big system which consists of several individual applications. Each of these applications is designed to be provenance aware and makes use of its own provenance store. In a system like that, where information flows across different applications, the history of the derivation of a piece of data (i.e. provenance) might reside across several provenance stores. As a result, one would need to query several provenance stores, to form the whole process execution chain. It is the job of the inter-operability layer to conceal the technology diversity of individual applications and expose provenance data in a uniform manner.
+Figure 2.6 illustrates a big system which consists of several individual applications. Each of these applications is designed to be provenance aware and makes use of its own provenance store. In a system like that, where information flows across different applications, the history of the derivation of a piece of data (i.e. provenance) might reside across several provenance stores. As a result, one would need to query several provenance stores, to form the whole process execution chain. It is the job of the inter-operability layer to conceal the technology diversity of individual applications and expose provenance data in a uniform manner.
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure6.pdf}
+		\includegraphics[scale=0.60]{./Figures/chapter2/figure6.pdf}
 		\rule{35em}{0.5pt}
 	\caption[Cross-System Provenance]{Cross-System Provenance.\cite{reference1}}
 	\label{fig:provAccrossSystems}
@@ -225,11 +225,11 @@ OPM suggests three types of nodes, which we now present:
 
 Nodes in an OPM graphs are connected with each other via causal dependencies. Such dependencies are illustrated with directed edges from the source bode (or effect) to the destination node (or cause).
 
-The OPM model introduces an initial set of causal dependencies which are illustrated in figure 1.7. This is a graphical representation of the causal relationships between artifacts, processes and agents. Artifacts are represented by ellipses; processes are represented by rectangles; and agents by octagons.
+The OPM model introduces an initial set of causal dependencies which are illustrated in figure 2.7. This is a graphical representation of the causal relationships between artifacts, processes and agents. Artifacts are represented by ellipses; processes are represented by rectangles; and agents by octagons.
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure7.pdf}
+		\includegraphics[scale=0.60]{./Figures/chapter2/figure7.pdf}
 		\rule{35em}{0.5pt}
 	\caption[Provenance Causal Dependencies]{Provenance Causal Dependencies\cite{reference13}. Note that past tense aligns with the notion of process history documentation.}
 	\label{fig:provCausalDependencies}
@@ -297,7 +297,7 @@ Regardless the various viewpoints that provenance can be examined, a good data m
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure8.pdf}
+		\includegraphics[scale=0.90]{./Figures/chapter2/figure8.pdf}
 		\rule{35em}{0.5pt}
 	\caption[PROV-DM]{PROV-DM\cite{reference14}. Note that past tense aligns with the notion of process history documentation.}
 	\label{fig:provDM}
@@ -369,7 +369,7 @@ Authorization and authentication are two requirements that can be achieved fairl
 
 \paragraph{Symmetric Encryption}
 
-This type of encryption requires that the entities that participate in a message exchange communication use the same key for the encryption and decryption phase. For example, figure 1.9 illustrates a message exchange scenario.
+This type of encryption requires that the entities that participate in a message exchange communication use the same key for the encryption and decryption phase. For example, figure 2.9 illustrates a message exchange scenario.
 
 \begin{figure}[htbp]
 	\centering
@@ -383,7 +383,7 @@ In this scenario Alice wants to send a message to Bob. As shown in the figure, s
 
 \paragraph{Asymmetric Encryption}
 
-Asymmetric encryption is more flexible, in that two different keys are used: a private and a public key; for example, figure 1.10 demonstrate the same scenario but now an asymmetric encryption is used. Alice uses Bob's public key to encrypt the plaintext and sends it to Bob, who decrypts the cipher text using his private key.
+Asymmetric encryption is more flexible, in that two different keys are used: a private and a public key; for example, figure 2.10 demonstrate the same scenario but now an asymmetric encryption is used. Alice uses Bob's public key to encrypt the plaintext and sends it to Bob, who decrypts the cipher text using his private key.
 
 \begin{figure}[htbp]
 	\centering
@@ -395,7 +395,7 @@ Asymmetric encryption is more flexible, in that two different keys are used: a p
 
 \paragraph{Digital Signature}
 
-Integrity and non-repudiation can be guaranteed with the use of digital signatures. To better describe this technology look at figure 1.11. Alice has a pair of private and public keys.
+Integrity and non-repudiation can be guaranteed with the use of digital signatures. To better describe this technology look at figure 2.11. Alice has a pair of private and public keys.
 
 \begin{figure}[htbp]
 	\centering
@@ -432,7 +432,7 @@ SSL is probably the most prevalent security protocol for distributing keys in a 
 
 As described earlier, in the asymmetric encryption we do not need to bother about how to distribute private keys, since we can share a public key. However, it is critical that we associate the public key with a particular party. In other words, the owner of the public key has to be identified. To that end, the Public Key Infrastructure (PKI)\cite{pki} has been designed. The main constituents of PKI are: a certificate, which is a digital resource that associates a participant to a public key. This certificate is digitally signed and issued by a trustworthy third-party authority, which is called Certificate Authority (CA). There is a relatively small number of CAs in PKI and they can issue certificates to other certificate authorities.
 
-To better describe this infrastructure, consider the following example. Figure 1.12 illustrates a typical PKI scenario.
+To better describe this infrastructure, consider the following example. Figure 2.12 illustrates a typical PKI scenario.
 
 \begin{figure}[htbp]
 	\centering
@@ -446,7 +446,7 @@ Alice signs a message with a private key and sends it to Bob along with a certif
 
 \subsection{Publishing and querying provenance information}
 
-An important task for a provenance-aware system is to capture and store provenance information. An equally crucial feature is to be able for someone to locate that information and ultimately query and retrieve it some format.  For that reason, an infrastructure should be supported so that external applications, users or the application itself could reuse the captured provenance information. Such infrastructure should resolve the problem of locating, retrieving and querying that information. The most appropriate solution is to leverage the current web infrastructure, as well as, some semantic web technologies. In more detail, uniform resource identifiers (URIs)\footnote{$http://www.w3.org/TR/uri-clarification/$} can be assigned to provenance information (provenance-URIs), as well, as, its constituents (i.e. entities, activities and agents). Any application can then perform HTTP GET\footnote{$http://www.w3.org/Protocols/rfc2616/rfc2616.html$} requests to access the information that is associated with the Uri in question\cite{prov-AQ}. This is similar to the way URIs are dereferenced when accessing web resources. Nevertheless, it not a strict requirement to assign unique URIs, due to the difficulties that such process has. Thus, alternative methods can be provided to facilitate the same functionality (we discuss them further in this section).
+An important task for a provenance-aware system is to capture and store provenance information. An equally crucial feature is to be able for someone to locate that information and ultimately query and retrieve it some format\cite{reference35}.  For that reason, an infrastructure should be supported so that external applications, users or the application itself could reuse the captured provenance information. Such infrastructure should resolve the problem of locating, retrieving and querying that information. The most appropriate solution is to leverage the current web infrastructure, as well as, some semantic web technologies. In more detail, uniform resource identifiers (URIs)\footnote{$http://www.w3.org/TR/uri-clarification/$} can be assigned to provenance information (provenance-URIs), as well, as, its constituents (i.e. entities, activities and agents). Any application can then perform HTTP GET\footnote{$http://www.w3.org/Protocols/rfc2616/rfc2616.html$} requests to access the information that is associated with the Uri in question\cite{prov-AQ}. This is similar to the way URIs are dereferenced when accessing web resources. Nevertheless, it not a strict requirement to assign unique URIs, due to the difficulties that such process has. Thus, alternative methods can be provided to facilitate the same functionality (we discuss them further in this section).
 
 Locating provenance information is crucial and is indispensable in scenarios where a provenance-URI is unknown. In such occasions, an application or a user has to provide some additional information to a provenance provider, which can be a third-party application. According to the submitted information, a provider can locate the provenance-URI and/or the provenance information itself.
 
@@ -564,13 +564,13 @@ SELECT ?generationStartTime WHERE {
 
 In this example, the client wants to retrieve the start time of an activity in the provenance information in question.
 
-\subsection{Carbon Footprints}
+\section{Carbon Footprints}
 
 During the last century, human activities brought severe damages to the environment. This has been more evident during the recent years, where anthropogenic environmental impacts have led to severe climate changes\cite{reference23:1}. To that end, several mechanisms to tackle with this problem need to be devised. In this section we introduce the fundamental terms and concepts that underpin the process of quantifying human's impact on the environment.
 
-\subsubsection{Fundamental Notions}
+\subsection{Fundamental Notions}
 
-Carbon footprinting is probably the most prevalent method for quantifying human's impact on the environment. More specifically, the term "footprint" can be associated with quantities of \emph{Greenhouse Gas (GHG)} emissions [Daniel Lashof] caused by activities, individuals, systems or populations. In cases where a more accurate evaluation of climate risk is needed, a measure called \emph{climate footprint}\cite{reference23:3} can be used. Figure 1.13 illustrates the distinction of those measured. We can notice a third layer which corresponds to a yet broader set of GHGs emissions and is called \emph{GHG inventory}.
+Carbon footprinting is probably the most prevalent method for quantifying human's impact on the environment. More specifically, the term "footprint" can be associated with quantities of \emph{Greenhouse Gas (GHG)} emissions [Daniel Lashof] caused by activities, individuals, systems or populations. In cases where a more accurate evaluation of climate risk is needed, a measure called \emph{climate footprint}\cite{reference23:3} can be used. Figure 2.13 illustrates the distinction of those measured. We can notice a third layer which corresponds to a yet broader set of GHGs emissions and is called \emph{GHG inventory}.
 
 \begin{figure}[htbp]
 	\centering
@@ -580,7 +580,7 @@ Carbon footprinting is probably the most prevalent method for quantifying human'
 	\label{fig:ghgEmissionMeasures}
 \end{figure}
 
-\subsubsection{Calculating carbon emissions}
+\subsection{Calculating carbon emissions}
 
 The process of calculating carbon footprints is relatively straightforward and consists of the several steps.
 
@@ -596,14 +596,14 @@ The process of calculating carbon footprints is relatively straightforward and c
 \end{enumerate}
 
 
-\subsubsection{Gathering Emissions Sources}
+\subsection{Gathering Emissions Sources}
 
 The carbon footprint calculation process starts by gathering the emissions sources for the subject. To better identify possible emissions sources we can distinguish two types of emissions: direct and indirect emissions.
 
 Direct are the emissions which the subject has full control of. These are the emissions that are primarily produced during the combustion of fossil fuels. On the other hand, indirect emissions are not directly associated with a specific activity, but are due to the demand for products brought by the subject in question; for example, each product that we buy consists of a number of activities that result in the product being on super-markets shelves. Apparently, all these activities cause CO2e emissions. This implies that our demand for products indirectly produced a quantity of CO2e that was emitted to the environment.
 
-\subsubsection{Classifying Emissions}
-The prime reason that lies behind the decision for categorizing emissions is the problem of double counting. In essence, it refers to the problem of associating the same quantity of carbon emissions to multiple subjects [23:25]. To avoid this issue, emissions are classified into three distinct scopes.
+\subsection{Classifying Emissions}
+The prime reason that lies behind the decision for categorizing emissions is the problem of double counting. In essence, it refers to the problem of associating the same quantity of carbon emissions to multiple subjects\cite{reference23:25}. To avoid this issue, emissions are classified into three distinct scopes.
 
 \begin{description}
   \item[Scope 1]
@@ -615,27 +615,30 @@ The prime reason that lies behind the decision for categorizing emissions is the
 \end{description}
 
 
-\subsubsection{Calculation Methods}
+\subsection{Calculation Methods}
 
 The next step in calculating emissions is to select an appropriate calculation method, based on the data that are available. The simplest formula suggests that the number of units of the activity that occurred be multiplied by an appropriate conversion factor (emission factor) [23:2]. To better illustrate this concept, imagine that the carbon emissions of a trip made by car needs to be calculated. In that case, we can multiply the distance travelled (or fuel consumed) by a value that define the CO2e emissions of that car per kilometer units.
 
 According to the accuracy and quality of the data that are present, calculation methods can be classified into three categories or tiers; if we choose to use the fuel consumed by a car then several factors that determine the quality of this figure should be considered. The type of the journey, the vehicles age and condition are some of the factors that affect the quantity of fuel consumption. A tier Three method will consider all those factors, as it will use the actual quantity of the fuel used. Further, it will multiply this number by an emission factor published by a government body and which is associated with the particular fuel type. A tier Two method will be less accurate. It will take the distance travelled as the main activity data and multiply it by the emissions factor for the specific car model. Finally, a tier One method will yield the least accurate figure, because it will use the least specific data. In particular, an average distance (published by some government's authority) for that sort of cars will be multiplied by the emission factor associated with that fuel type.
 
-\subsubsection{HEI Scope 3 Carbon Emissions}
+\subsection{HEI Scope 3 Carbon Emissions}
 
-In this section we will briefly describe how higher educational institutions (HEI) should calculate scope 3 carbon emissions caused by travels made by the institution's members [24]. First we will remind that scope 3 emissions are those that are caused by sources that are not owned by the HEI. A representative example would be, emissions that are produces by commuting travels by a transport mean that is not owned by the HEI e.g. bus, train etc.
+In this section we will briefly describe how higher educational institutions (HEI) should calculate scope 3 carbon emissions caused by travels made by the institution's members\cite{reference24}. First we will remind that scope 3 emissions are those that are caused by sources that are not owned by the HEI. A representative example would be, emissions that are produces by commuting travels by a transport mean that is not owned by the HEI e.g. bus, train etc.
 
 There are two categories of travels: business and commuter travels. The main factor that determines the scope of carbon emissions is the mode of transport that was used; for instance, emissions caused by transport means owned by the HEI are scope 1 emissions. However, travels are often made by modes of transport owned by third-party bodies; hence the corresponding emissions are regarded as scope 3 emissions.
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics{./Figures/figure17.pdf}
+		\includegraphics[scale=0.85]{./Figures/chapter2/figure17.pdf}
 		\rule{35em}{0.5pt}
-	\caption[Seperating Scope 1 and Scope 3 Emissions]{How to distinguish scope 1 and scope 3 emissions [24]}
+	\caption[Seperating Scope 1 and Scope 3 Emissions]{How to distinguish scope 1 and scope 3 emissions\cite{reference24}}
 	\label{fig:scope1Scope3}
 \end{figure}
 
 
-\subsubsection{Travel emissions calculation}
+\subsection{Travel emissions calculation}
 
 The process of calculating emissions caused by travels is the same with what we have presented earlier. As far as travels are concerned, the type of transport mean determines the emission factor that will be used in the calculation formula.
+
+
+\section{Summary}

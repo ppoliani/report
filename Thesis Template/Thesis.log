@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.10.19)  6 SEP 2012 19:30
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.10.19)  8 SEP 2012 16:33
 entering extended mode
 **C:/Users/Boliev/Documents/αρχεια*word/ECS/MSc*Web*Technology*Books/Dissertati
 on/report/Thesis*Template/Thesis.tex
@@ -699,11 +699,17 @@ on\report\Thesis Template\Thesis.lot")
 
 ]
 ("C:\Users\Boliev\Documents\αρχεια word\ECS\MSc Web Technology Books\Dissertati
-on\report\Thesis Template\Chapters\Chapter1.tex"
+on\report\Thesis Template\Chapters\Chapter2.tex"
 Chapter 1.
 ------------------------------------------------------------------------------
  1 Background
 ------------------------------------------------------------------------------
+
+Overfull \hbox (12.86244pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10.95 Substantial work on prove-nance of data has been un-der-take
+n by the database, workflow[[]][[]]
+ []
+
 [1
 
 
@@ -712,152 +718,162 @@ Chapter 1.
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure1.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure1.pdf, id=365, 401.5pt x 110.4125pt>
-File: ./Figures/figure1.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure1.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure1.pdf, id=460, 713.66624pt x 217.81375pt>
+File: ./Figures/chapter2/figure1.pdf Graphic file (type pdf)
 
-<use ./Figures/figure1.pdf>
-Package pdftex.def Info: ./Figures/figure1.pdf used on input line 19.
-(pdftex.def)             Requested size: 401.49901pt x 110.41222pt.
+<use ./Figures/chapter2/figure1.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure1.pdf used on input line 19.
+(pdftex.def)             Requested size: 356.83224pt x 108.9066pt.
 
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
 rt/Thesis Template/Figures/table.pdf): PDF inclusion: found PDF version <1.6>, 
 but at most version <1.5> allowed
-<./Figures/table.pdf, id=366, 401.5pt x 115.43124pt>
+<./Figures/table.pdf, id=466, 401.5pt x 115.43124pt>
 File: ./Figures/table.pdf Graphic file (type pdf)
  <use ./Figures/table.pdf>
 Package pdftex.def Info: ./Figures/table.pdf used on input line 33.
 (pdftex.def)             Requested size: 401.49901pt x 115.43095pt.
 
 [2 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disserta
-tion/report/Thesis Template/Figures/figure1.pdf>]
+tion/report/Thesis Template/Figures/chapter2/figure1.pdf>]
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure2.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure2.pdf, id=374, 401.5pt x 148.555pt>
-File: ./Figures/figure2.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure2.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure2.pdf, id=482, 990.70125pt x 382.42876pt>
+File: ./Figures/chapter2/figure2.pdf Graphic file (type pdf)
 
-<use ./Figures/figure2.pdf>
-Package pdftex.def Info: ./Figures/figure2.pdf used on input line 48.
-(pdftex.def)             Requested size: 401.49901pt x 148.55463pt.
+<use ./Figures/chapter2/figure2.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure2.pdf used on input line 48.
+(pdftex.def)             Requested size: 346.75063pt x 133.85207pt.
  [3 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissert
 ation/report/Thesis Template/Figures/table.pdf> <C:/Users/Boliev/Documents/αρχε
 ια word/ECS/MSc Web Technology Books/Dissertation/report/Thesis Template/Figure
-s/figure2.pdf>]
+s/chapter2/figure2.pdf>]
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure3.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure3.pdf, id=384, 401.5pt x 190.7125pt>
-File: ./Figures/figure3.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure3.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure3.pdf, id=502, 540.0175pt x 250.9375pt>
+File: ./Figures/chapter2/figure3.pdf Graphic file (type pdf)
 
-<use ./Figures/figure3.pdf>
-Package pdftex.def Info: ./Figures/figure3.pdf used on input line 86.
-(pdftex.def)             Requested size: 401.49901pt x 190.71202pt.
+<use ./Figures/chapter2/figure3.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure3.pdf used on input line 86.
+(pdftex.def)             Requested size: 270.00809pt x 125.46843pt.
  [4] [5 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dis
-sertation/report/Thesis Template/Figures/figure3.pdf>] [6]
+sertation/report/Thesis Template/Figures/chapter2/figure3.pdf>] [6]
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure4.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure4.pdf, id=400, 401.5pt x 182.6825pt>
-File: ./Figures/figure4.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure4.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure4.pdf, id=530, 885.3075pt x 396.48125pt>
+File: ./Figures/chapter2/figure4.pdf Graphic file (type pdf)
 
-<use ./Figures/figure4.pdf>
-Package pdftex.def Info: ./Figures/figure4.pdf used on input line 134.
-(pdftex.def)             Requested size: 401.49901pt x 182.68204pt.
+<use ./Figures/chapter2/figure4.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure4.pdf used on input line 134.
+
+(pdftex.def)             Requested size: 309.86226pt x 138.77051pt.
  [7]
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure5.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure5.pdf, id=406, 451.6875pt x 471.7625pt>
-File: ./Figures/figure5.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure5.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure5.pdf, id=541, 526.96875pt x 643.40375pt>
+File: ./Figures/chapter2/figure5.pdf Graphic file (type pdf)
 
-<use ./Figures/figure5.pdf>
-Package pdftex.def Info: ./Figures/figure5.pdf used on input line 163.
-(pdftex.def)             Requested size: 451.68639pt x 471.76134pt.
+<use ./Figures/chapter2/figure5.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure5.pdf used on input line 163.
 
-Overfull \hbox (34.21332pt too wide) in paragraph at lines 163--165
+(pdftex.def)             Requested size: 421.57556pt x 514.7237pt.
+
+Overfull \hbox (4.1025pt too wide) in paragraph at lines 163--165
  [][] 
  []
 
 [8 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disserta
-tion/report/Thesis Template/Figures/figure4.pdf>] [9 <C:/Users/Boliev/Documents
-/αρχεια word/ECS/MSc Web Technology Books/Dissertation/report/Thesis Template/F
-igures/figure5.pdf>]
+tion/report/Thesis Template/Figures/chapter2/figure4.pdf>] [9 <C:/Users/Boliev/
+Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/report/Thesis T
+emplate/Figures/chapter2/figure5.pdf>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 190.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 190.
-
-
-pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
-ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure6.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure6.pdf, id=422, 401.5pt x 207.77625pt>
-File: ./Figures/figure6.pdf Graphic file (type pdf)
-
-<use ./Figures/figure6.pdf>
-Package pdftex.def Info: ./Figures/figure6.pdf used on input line 207.
-(pdftex.def)             Requested size: 401.49901pt x 207.77573pt.
- [10] [11 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/D
-issertation/report/Thesis Template/Figures/figure6.pdf>]
+ [10]
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure7.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure7.pdf, id=433, 401.5pt x 231.86626pt>
-File: ./Figures/figure7.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure6.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure6.pdf, id=568, 651.43375pt x 343.2825pt>
+File: ./Figures/chapter2/figure6.pdf Graphic file (type pdf)
 
-<use ./Figures/figure7.pdf>
-Package pdftex.def Info: ./Figures/figure7.pdf used on input line 232.
-(pdftex.def)             Requested size: 401.49901pt x 231.86568pt.
- [12 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
-tation/report/Thesis Template/Figures/figure7.pdf>]
-[13] [14]
+<use ./Figures/chapter2/figure6.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure6.pdf used on input line 207.
+
+(pdftex.def)             Requested size: 390.86325pt x 205.97107pt.
+ [11 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
+tation/report/Thesis Template/Figures/chapter2/figure6.pdf>]
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure8.pdf): PDF inclusion: found PDF version <1.6>
-, but at most version <1.5> allowed
-<./Figures/figure8.pdf, id=457, 401.5pt x 306.14375pt>
-File: ./Figures/figure8.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure7.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure7.pdf, id=578, 734.745pt x 393.47pt>
+File: ./Figures/chapter2/figure7.pdf Graphic file (type pdf)
 
-<use ./Figures/figure8.pdf>
-Package pdftex.def Info: ./Figures/figure8.pdf used on input line 301.
-(pdftex.def)             Requested size: 401.49901pt x 306.14299pt.
+<use ./Figures/chapter2/figure7.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure7.pdf used on input line 232.
+
+(pdftex.def)             Requested size: 440.85039pt x 236.0838pt.
+
+Overfull \hbox (23.37732pt too wide) in paragraph at lines 232--234
+ [][] 
+ []
+
+[12 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissert
+ation/report/Thesis Template/Figures/chapter2/figure7.pdf>] [13] [14]
+
+pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
+ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
+rt/Thesis Template/Figures/chapter2/figure8.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure8.pdf, id=615, 454.69875pt x 346.29375pt>
+File: ./Figures/chapter2/figure8.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter2/figure8.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure8.pdf used on input line 300.
+
+(pdftex.def)             Requested size: 409.22508pt x 311.66148pt.
  [15] [16 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/D
-issertation/report/Thesis Template/Figures/figure8.pdf>] [17]
-Overfull \hbox (2.754pt too wide) in paragraph at lines 340--341
+issertation/report/Thesis Template/Figures/chapter2/figure8.pdf>]
+Overfull \hbox (2.754pt too wide) in paragraph at lines 338--339
 \OT1/cmr/m/n/10.95 the "ex:w3c:publication.pn" prove-nance de-scrip-tion. We th
 en state that "w3:consortium"
  []
 
-[18]
+[17] [18]
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
 rt/Thesis Template/Figures/figure12.pdf): PDF inclusion: found PDF version <1.6
 >, but at most version <1.5> allowed
-<./Figures/figure12.pdf, id=478, 401.5pt x 173.64874pt>
+<./Figures/figure12.pdf, id=648, 401.5pt x 173.64874pt>
 File: ./Figures/figure12.pdf Graphic file (type pdf)
 
 <use ./Figures/figure12.pdf>
-Package pdftex.def Info: ./Figures/figure12.pdf used on input line 378.
+Package pdftex.def Info: ./Figures/figure12.pdf used on input line 376.
 (pdftex.def)             Requested size: 401.49901pt x 173.64832pt.
  [19]
 
@@ -865,11 +881,11 @@ pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
 rt/Thesis Template/Figures/figure13.pdf): PDF inclusion: found PDF version <1.6
 >, but at most version <1.5> allowed
-<./Figures/figure13.pdf, id=483, 401.5pt x 174.6525pt>
+<./Figures/figure13.pdf, id=661, 401.5pt x 174.6525pt>
 File: ./Figures/figure13.pdf Graphic file (type pdf)
 
 <use ./Figures/figure13.pdf>
-Package pdftex.def Info: ./Figures/figure13.pdf used on input line 392.
+Package pdftex.def Info: ./Figures/figure13.pdf used on input line 390.
 (pdftex.def)             Requested size: 401.49901pt x 174.65207pt.
 
 
@@ -877,11 +893,11 @@ pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
 rt/Thesis Template/Figures/figure14.pdf): PDF inclusion: found PDF version <1.6
 >, but at most version <1.5> allowed
-<./Figures/figure14.pdf, id=484, 401.5pt x 138.5175pt>
+<./Figures/figure14.pdf, id=664, 401.5pt x 138.5175pt>
 File: ./Figures/figure14.pdf Graphic file (type pdf)
 
 <use ./Figures/figure14.pdf>
-Package pdftex.def Info: ./Figures/figure14.pdf used on input line 404.
+Package pdftex.def Info: ./Figures/figure14.pdf used on input line 402.
 (pdftex.def)             Requested size: 401.49901pt x 138.51715pt.
  [20 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
 tation/report/Thesis Template/Figures/figure12.pdf> <C:/Users/Boliev/Documents/
@@ -893,15 +909,15 @@ pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
 rt/Thesis Template/Figures/figure15.pdf): PDF inclusion: found PDF version <1.6
 >, but at most version <1.5> allowed
-<./Figures/figure15.pdf, id=504, 401.5pt x 240.9pt>
+<./Figures/figure15.pdf, id=688, 401.5pt x 240.9pt>
 File: ./Figures/figure15.pdf Graphic file (type pdf)
 
 <use ./Figures/figure15.pdf>
-Package pdftex.def Info: ./Figures/figure15.pdf used on input line 441.
+Package pdftex.def Info: ./Figures/figure15.pdf used on input line 439.
 (pdftex.def)             Requested size: 401.49901pt x 240.8994pt.
  [22 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
 tation/report/Thesis Template/Figures/figure15.pdf>] [23] [24]
-Overfull \hbox (0.81276pt too wide) in paragraph at lines 512--512
+Overfull \hbox (0.81276pt too wide) in paragraph at lines 510--510
  []\OT1/cmtt/m/n/10.95 prov:hasProvenanceService <http://example.com/provenance
 -service/> .[] 
  []
@@ -912,35 +928,148 @@ pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
 rt/Thesis Template/Figures/figure16.pdf): PDF inclusion: found PDF version <1.6
 >, but at most version <1.5> allowed
-<./Figures/figure16.pdf, id=530, 401.5pt x 402.50375pt>
+<./Figures/figure16.pdf, id=731, 401.5pt x 402.50375pt>
 File: ./Figures/figure16.pdf Graphic file (type pdf)
 
 <use ./Figures/figure16.pdf>
-Package pdftex.def Info: ./Figures/figure16.pdf used on input line 579.
+Package pdftex.def Info: ./Figures/figure16.pdf used on input line 577.
 (pdftex.def)             Requested size: 401.49901pt x 402.50276pt.
  [27] [28 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/D
 issertation/report/Thesis Template/Figures/figure16.pdf>] [29]
+Overfull \hbox (9.30368pt too wide) in paragraph at lines 626--627
+\OT1/cmr/m/n/10.95 cal-cu-late scope 3 car-bon emis-sions caused by trav-els ma
+de by the in-sti-tu-tion's members[[]].
+ []
+
+
 
 pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
 ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
-rt/Thesis Template/Figures/figure17.pdf): PDF inclusion: found PDF version <1.6
->, but at most version <1.5> allowed
-<./Figures/figure17.pdf, id=549, 401.5pt x 446.66875pt>
-File: ./Figures/figure17.pdf Graphic file (type pdf)
+rt/Thesis Template/Figures/chapter2/figure17.pdf): PDF inclusion: found PDF ver
+sion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter2/figure17.pdf, id=760, 503.8825pt x 648.4225pt>
+File: ./Figures/chapter2/figure17.pdf Graphic file (type pdf)
 
-<use ./Figures/figure17.pdf>
-Package pdftex.def Info: ./Figures/figure17.pdf used on input line 634.
-(pdftex.def)             Requested size: 401.49901pt x 446.66765pt.
+<use ./Figures/chapter2/figure17.pdf>
+Package pdftex.def Info: ./Figures/chapter2/figure17.pdf used on input line 632
+.
+(pdftex.def)             Requested size: 428.30215pt x 551.16173pt.
+
+Overfull \hbox (10.82909pt too wide) in paragraph at lines 632--634
+ [][] 
+ []
+
 )
 ("C:\Users\Boliev\Documents\αρχεια word\ECS\MSc Web Technology Books\Dissertati
-on\report\Thesis Template\Appendices\AppendixA.tex" [30] [31 <C:/Users/Boliev/D
-ocuments/αρχεια word/ECS/MSc Web Technology Books/Dissertation/report/Thesis Te
-mplate/Figures/figure17.pdf>]
+on\report\Thesis Template\Chapters\Chapter3.tex" [30] [31 <C:/Users/Boliev/Docu
+ments/αρχεια word/ECS/MSc Web Technology Books/Dissertation/report/Thesis Templ
+ate/Figures/chapter2/figure17.pdf>]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Provenance in our Application
+------------------------------------------------------------------------------
+[32
+
+]
+
+pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
+ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
+rt/Thesis Template/Figures/chapter3/figure1.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter3/figure1.pdf, id=779, 854.19125pt x 583.17876pt>
+File: ./Figures/chapter3/figure1.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figure1.pdf>
+Package pdftex.def Info: ./Figures/chapter3/figure1.pdf used on input line 29.
+(pdftex.def)             Requested size: 341.67046pt x 233.26736pt.
+ [33]
+
+pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
+ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
+rt/Thesis Template/Figures/chapter3/figure2.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter3/figure2.pdf, id=784, 788.9475pt x 1105.12875pt>
+File: ./Figures/chapter3/figure2.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figure2.pdf>
+Package pdftex.def Info: ./Figures/chapter3/figure2.pdf used on input line 49.
+(pdftex.def)             Requested size: 315.5734pt x 442.04367pt.
+ [34 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
+tation/report/Thesis Template/Figures/chapter3/figure1.pdf>]
+
+pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
+ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
+rt/Thesis Template/Figures/chapter3/figure3.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter3/figure3.pdf, id=791, 788.9475pt x 543.02875pt>
+File: ./Figures/chapter3/figure3.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figure3.pdf>
+Package pdftex.def Info: ./Figures/chapter3/figure3.pdf used on input line 66.
+(pdftex.def)             Requested size: 315.5734pt x 217.20764pt.
+ [35 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
+tation/report/Thesis Template/Figures/chapter3/figure2.pdf>]
+
+pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
+ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
+rt/Thesis Template/Figures/chapter3/figure4.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter3/figure4.pdf, id=798, 788.9475pt x 543.02875pt>
+File: ./Figures/chapter3/figure4.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figure4.pdf>
+Package pdftex.def Info: ./Figures/chapter3/figure4.pdf used on input line 79.
+(pdftex.def)             Requested size: 315.5734pt x 217.20764pt.
+ [36 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
+tation/report/Thesis Template/Figures/chapter3/figure3.pdf>]
+
+pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
+ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
+rt/Thesis Template/Figures/chapter3/figure5.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter3/figure5.pdf, id=806, 788.9475pt x 543.02875pt>
+File: ./Figures/chapter3/figure5.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figure5.pdf>
+Package pdftex.def Info: ./Figures/chapter3/figure5.pdf used on input line 96.
+(pdftex.def)             Requested size: 315.5734pt x 217.20764pt.
+
+
+pdfTeX warning: C:\Program Files\MiKTeX 2.9\miktex\bin\pdflatex.exe (file C:/Us
+ers/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissertation/repo
+rt/Thesis Template/Figures/chapter3/figure6.pdf): PDF inclusion: found PDF vers
+ion <1.6>, but at most version <1.5> allowed
+<./Figures/chapter3/figure6.pdf, id=807, 788.9475pt x 543.02875pt>
+File: ./Figures/chapter3/figure6.pdf Graphic file (type pdf)
+
+<use ./Figures/chapter3/figure6.pdf>
+Package pdftex.def Info: ./Figures/chapter3/figure6.pdf used on input line 106.
+
+(pdftex.def)             Requested size: 315.5734pt x 217.20764pt.
+ [37 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Disser
+tation/report/Thesis Template/Figures/chapter3/figure4.pdf>]
+Overfull \hbox (48.7225pt too wide) in paragraph at lines 120--121
+[]\OT1/cmr/m/n/10.95 The JSON data be-low was re-turned af-ter ac-cess-ing the 
+fol-low-ing ser-vice: http://127.0.0.1:8000/get-
+ []
+
+[38 <C:/Users/Boliev/Documents/αρχεια word/ECS/MSc Web Technology Books/Dissert
+ation/report/Thesis Template/Figures/chapter3/figure5.pdf> <C:/Users/Boliev/Doc
+uments/αρχεια word/ECS/MSc Web Technology Books/Dissertation/report/Thesis Temp
+late/Figures/chapter3/figure6.pdf>] [39]
+Overfull \hbox (7.92982pt too wide) in paragraph at lines 166--166
+[]      \OT1/cmtt/m/n/10.95 "cf":"http://users.ecs.soton.ac.uk/pp6g11/ontology/
+carbonFooprints/"[] 
+ []
+
+) [40]
+("C:\Users\Boliev\Documents\αρχεια word\ECS\MSc Web Technology Books\Dissertati
+on\report\Thesis Template\Appendices\AppendixA.tex" [41]
 Appendix A.
 ------------------------------------------------------------------------------
  A Appendix Title Here
 ------------------------------------------------------------------------------
-) [32
+) [42
 
 ]
 ------------------------------------------------------------------------------
@@ -949,37 +1078,49 @@ Appendix A.
 
 ("C:\Users\Boliev\Documents\αρχεια word\ECS\MSc Web Technology Books\Dissertati
 on\report\Thesis Template\Thesis.bbl"
+Missing character: There is no δ in font cmr10!
 
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
+Underfull \hbox (badness 1178) in paragraph at lines 57--66
+\OT1/cmr/m/n/10.95 978-3-540-85258-2.  URL [][]$\OT1/cmtt/m/n/10.95 http : / / 
+dx . doi . org / 10 . 1007 / 978-[]3-[]540-[]85259-[]96$[][]\OT1/cmr/m/n/10.95 
+.
+ []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
- [33
+[43
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
+Missing character: There is no δ in font cmr10!
+ [44] [45] [46]
+Missing character: There is no — in font cmti10!
+Missing character: There is no ’ in font cmti10!
+ [47]
+Missing character: There is no – in font cmti10!
+ [48])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
+ [49]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
 
 ("C:\Users\Boliev\Documents\αρχεια word\ECS\MSc Web Technology Books\Dissertati
 on\report\Thesis Template\Thesis.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9838BB82148B3D481BE5C87ABE1F3DCC;9713.
+(rerunfilecheck)             Checksum: 71A332F39BEA16249082C2BB87E4781C;12090.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
  ) 
 Here is how much of TeX's memory you used:
- 10878 strings out of 494049
- 156181 string characters out of 3148479
- 236895 words of memory out of 3000000
- 13828 multiletter control sequences out of 15000+200000
+ 11179 strings out of 494049
+ 162316 string characters out of 3148479
+ 244989 words of memory out of 3000000
+ 14033 multiletter control sequences out of 15000+200000
  18762 words of font info for 71 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 49i,11n,45p,1644b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,12n,45p,1788b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
@@ -994,13 +1135,13 @@ es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX
 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb
->
-Output written on Thesis.pdf (46 pages, 1164961 bytes).
+sfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on Thesis.pdf (62 pages, 2473391 bytes).
 PDF statistics:
- 662 PDF objects out of 1000 (max. 8388607)
- 137 named destinations out of 1000 (max. 500000)
- 468 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1041 PDF objects out of 1200 (max. 8388607)
+ 228 named destinations out of 1000 (max. 500000)
+ 594 words of extra memory for PDF output out of 10000 (max. 10000000)
 

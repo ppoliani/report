@@ -11,6 +11,13 @@
 \contentsline {figure}{\numberline {1.10}{\ignorespaces Asymmetric Encryption}}{20}{figure.caption.59}
 \contentsline {figure}{\numberline {1.11}{\ignorespaces Digital Signature}}{21}{figure.caption.61}
 \contentsline {figure}{\numberline {1.12}{\ignorespaces Public Key Infrastructure}}{22}{figure.caption.70}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces Carbon Emissions Measures}}{28}{figure.caption.76}
-\contentsline {figure}{\numberline {1.14}{\ignorespaces Seperating Scope 1 and Scope 3 Emissions}}{31}{figure.caption.86}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Carbon Emissions Measures}}{28}{figure.caption.80}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Seperating Scope 1 and Scope 3 Emissions}}{31}{figure.caption.90}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Trip creation provenance graph}}{34}{figure.caption.98}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Graph illustrating the provenance of the TripXLegCarbonEmission entity}}{35}{figure.caption.100}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Graph illustrating the provenance of the carbon emissions of a trip}}{36}{figure.caption.102}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Graph illustrating the provenance of the carbon emissions of a trip after a trip leg was modified}}{37}{figure.caption.103}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Graph illustrating the provenance for individual carbon emissions}}{38}{figure.caption.105}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Graph illustrating the provenance for group carbon emissions}}{38}{figure.caption.106}
 \addvspace {10\p@ }

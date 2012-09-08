@@ -177,11 +177,11 @@ $\omega$ & angular frequency & rads$^{-1}$ \\
 % Include the chapters of the thesis, as separate files
 % Just uncomment the lines as you write the chapters
 
-\input{./Chapters/Chapter1} % Introduction
+%\input{./Chapters/Chapter1} % Introduction
 
-%\input{./Chapters/Chapter2} % Background Theory
+\input{./Chapters/Chapter2} % Background Theory
 
-%\input{./Chapters/Chapter3} % Experimental Setup
+\input{./Chapters/Chapter3} % Experimental Setup
 
 %\input{./Chapters/Chapter4} % Experiment 1
 
@@ -210,6 +210,7 @@ $\omega$ & angular frequency & rads$^{-1}$ \\
 %% ----------------------------------------------------------------
 \label{Bibliography}
 \lhead{\emph{Bibliography}}  % Change the left side page header to "Bibliography"
+\nocite{reference27, reference28, reference29, reference30, reference31, reference32}
 \bibliographystyle{unsrtnat}  % Use the "unsrtnat" BibTeX style for formatting the Bibliography
 \bibliography{Bibliography}  % The references (bibliography) information are stored in the file named "Bibliography.bib"
 
