@@ -1,0 +1,34 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A colourful picture.\relax }}{1}{figure.caption.10}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces A doubly colourful picture.\relax }}{2}{figure.caption.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {The left caption}}}{2}{figure.caption.11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {The right caption}}}{2}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Scientific Workflow}}{4}{figure.caption.18}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Taxonomy of Provenance}}{5}{figure.caption.21}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Provenance Represantation}}{7}{figure.caption.25}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Provenance Directed Graph}}{10}{figure.caption.29}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Architecture of Provenance-Aware Application}}{12}{figure.caption.36}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Cross-System Provenance}}{14}{figure.caption.38}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Provenance Causal Dependencies}}{15}{figure.caption.39}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces PROV-DM}}{19}{figure.caption.44}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Symmetric Encryption}}{23}{figure.caption.54}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Asymmetric Encryption}}{24}{figure.caption.56}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Digital Signature}}{24}{figure.caption.58}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Public Key Infrastructure}}{26}{figure.caption.67}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Carbon Emissions Measures}}{32}{figure.caption.77}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Seperating Scope 1 and Scope 3 Emissions}}{35}{figure.caption.87}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Form for adding travels made by a car}}{36}{figure.caption.92}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Carbon footprint report}}{37}{figure.caption.93}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Carbon footprint report send to user's email}}{38}{figure.caption.97}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Ecobot carbon footprint calculator}}{39}{figure.caption.100}
+\contentsline {figure}{\numberline {2.19}{\ignorespaces The Guardian's quick carbon calculator}}{40}{figure.caption.103}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Trip creation provenance graph}}{47}{figure.caption.119}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Graph illustrating the provenance of the TripXLegCarbonEmission entity}}{48}{figure.caption.121}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Graph illustrating the provenance of the carbon emissions of a trip}}{49}{figure.caption.123}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Graph illustrating the provenance of the carbon emissions of a trip after a trip leg was modified}}{50}{figure.caption.124}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Graph illustrating the provenance for individual carbon emissions}}{51}{figure.caption.126}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Graph illustrating the provenance for group carbon emissions}}{51}{figure.caption.127}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

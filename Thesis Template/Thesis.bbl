@@ -1,4 +1,4 @@
-\begin{thebibliography}{53}
+\begin{thebibliography}{54}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -166,22 +166,6 @@ Yogesh~L. Simmhan, Beth Plale, and Dennis Gannon.
 \newblock \doi{10.1145/1084805.1084812}.
 \newblock URL \url{http://doi.acm.org/10.1145/1084805.1084812}.
 
-\bibitem[Goble(2002)]{reference4:14}
-Carole Goble.
-\newblock Musing on provenance, workflow and (semantic web) annotations for
-  bioinfomatics.
-\newblock In \emph{Data Provenance/Derivation Workshop 2002}, 2002.
-
-\bibitem[Greenwood et~al.(2003)Greenwood, Goble, Stevens, Zhao, Addis, Marvin,
-  Moreau, and Oinn]{reference4:8}
-Mark Greenwood, Carole Goble, Robert Stevens, Jun Zhao, Matthew Addis, Darren
-  Marvin, Luc Moreau, and Tom Oinn.
-\newblock Provenance of e-science experiments - experience from bioinformatics.
-\newblock In \emph{The UK OST e-Science second All Hands Meeting 2003
-  (AHM'03)}, pages 223--226, 2003.
-\newblock URL \url{http://eprints.soton.ac.uk/259468/}.
-\newblock Event Dates: September.
-
 \bibitem[Deelman et~al.(2010)Deelman, Berriman, Chervenak, Corcho, Groth, and
   Moreau]{reference8}
 Ewa Deelman, G.~Bruce Berriman, Ann~L. Chervenak, {\'O}scar Corcho, Paul~T.
@@ -208,6 +192,22 @@ N.~Karmarkar.
 \newblock ISBN 0-89791-133-4.
 \newblock \doi{10.1145/800057.808695}.
 \newblock URL \url{http://doi.acm.org/10.1145/800057.808695}.
+
+\bibitem[Erl(2004)]{soa}
+Thomas Erl.
+\newblock \emph{Service-Oriented Architecture: A Field Guide to Integrating XML
+  and Web Services}.
+\newblock Prentice Hall PTR, Upper Saddle River, NJ, USA, 2004.
+\newblock ISBN 0131428985.
+
+\bibitem[Groth et~al.(2009)Groth, Miles, and Moreau]{reference32}
+Paul Groth, Simon Miles, and Luc Moreau.
+\newblock A model of process documentation to determine provenance in mash-ups.
+\newblock \emph{ACM Trans. Internet Technol.}, 9\penalty0 (1):\penalty0
+  3:1--3:31, February 2009.
+\newblock ISSN 1533-5399.
+\newblock \doi{10.1145/1462159.1462162}.
+\newblock URL \url{http://doi.acm.org/10.1145/1462159.1462162}.
 
 \bibitem[Groth et~al.(2006)Groth, Jiang, Miles, Munroe, Tan, Tsasakou, and
   Moreau]{reference10}
@@ -385,6 +385,13 @@ IPCC.
   on climate change.
 \newblock 2007.
 
+\bibitem[Lashof(1990)]{ghg}
+Daniel~A. Lashof.
+\newblock Relative contributions of greenhouse gas emissions to global warming.
+\newblock \emph{Nature}, 344\penalty0 (6266):\penalty0 529--531, April 1990.
+\newblock \doi{10.1038/344529a0}.
+\newblock URL \url{http://dx.doi.org/10.1038/344529a0}.
+
 \bibitem[Wright et~al.(2011{\natexlab{a}})Wright, Kemp, and
   Williams]{reference23:3}
 Laurence~A. Wright, Simon Kemp, and Ian Williams.
@@ -469,13 +476,13 @@ Geoffrey Barbier and Huan Liu.
 \newblock URL \url{http://dx.doi.org/10.1007/978-3-642-19656-039}.
 \newblock 10.1007/978-3-642-19656-039.
 
-\bibitem[Groth et~al.(2009)Groth, Miles, and Moreau]{reference32}
-Paul Groth, Simon Miles, and Luc Moreau.
-\newblock A model of process documentation to determine provenance in mash-ups.
-\newblock \emph{ACM Trans. Internet Technol.}, 9\penalty0 (1):\penalty0
-  3:1--3:31, February 2009.
-\newblock ISSN 1533-5399.
-\newblock \doi{10.1145/1462159.1462162}.
-\newblock URL \url{http://doi.acm.org/10.1145/1462159.1462162}.
+\bibitem[Pandey et~al.(2011)Pandey, Agrawal, and Pandey]{reference37}
+Divya Pandey, Madhoolika Agrawal, and Jai Pandey.
+\newblock Carbon footprint: current methods of estimation.
+\newblock \emph{Environmental Monitoring and Assessment}, 178:\penalty0
+  135--160, 2011.
+\newblock ISSN 0167-6369.
+\newblock URL \url{http://dx.doi.org/10.1007/s10661-010-1678-y}.
+\newblock 10.1007/s10661-010-1678-y.
 
 \end{thebibliography}

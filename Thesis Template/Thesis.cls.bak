@@ -48,7 +48,7 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{2.0ex plus0.5ex minus0.2ex}
 \usepackage{vmargin}
-\setmarginsrb           { 1.5in}  % left margin
+\setmarginsrb           { 1.0in}  % left margin
                         { 0.6in}  % top margin
                         { 1.0in}  % right margin
                         { 0.8in}  % bottom margin
@@ -150,29 +150,30 @@
 \degree      {}
 \authors     {}
 \university  {\texorpdfstring{\href{http://www.southampton.ac.uk/}
-                {University Name}}
-                {University Name}}
+                {University of Southampton}}
+                {University of Southampton}}
 \UNIVERSITY  {\texorpdfstring{\href{University Web Site URL Here (include http://)}
-                {UNIVERSITY NAME (IN BLOCK CAPITALS)}}
-                {UNIVERSITY NAME (IN BLOCK CAPITALS)}}
+                {UNIVERSITY OF SOUTHAMPTON}}
+                {UNIVERSITY OF SOUTHAMPTON}}
 \department  {\texorpdfstring{\href{Department or School Web Site URL Here (include http://)}
-                {Department or School Name}}
-                {Department or School Name}}
+                {Electronics and Computer Science}}
+                {Electronics and Computer Science}}
 \DEPARTMENT  {\texorpdfstring{\href{Department or School Web Site URL Here (include http://)}
-                {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}}
-                {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}}
+                {ELECTRONICS AND COMPUTER SCIENCE}}
+                {ELECTRONICS AND COMPUTER SCIENCE}}
 \group       {\texorpdfstring{\href{Research Group Web Site URL Here (include http://)}
-                {Research Group Name}}
-                {Research Group Name}}
+                {Web and Internet Science}}
+                {Web and Internet Science}}
 \GROUP       {\texorpdfstring{\href{Research Group Web Site URL Here (include http://)}
-                {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}}
-                {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}}
+                {WEB AND INTERNET SCIENCE}}
+                {WEB AND INTERNET SCIENCE}}
 \faculty     {\texorpdfstring{\href{Faculty Web Site URL Here (include http://)}
-                {Faculty Name}}
-                {Faculty Name}}
+                {Faculty of Physical and Applied Sciences}}
+                {Faculty of Physical and Applied Sciences}}
 \FACULTY     {\texorpdfstring{\href{Faculty Web Site URL Here (include http://)}
-                {FACULTY NAME (IN BLOCK CAPITALS)}}
-                {FACULTY NAME (IN BLOCK CAPITALS)}}
+                {FACULTY OF PHYSICAL AND APPLIED SCIENCES}}
+                {FACULTY OF PHYSICAL AND APPLIED SCIENCES}}
+\supervisor  {{Dr. Luc Moreau}}
 \addresses   {}
 \subject     {}
 \keywords    {}
@@ -201,12 +202,16 @@
       {\LARGE \authornames \par}
       \vfill
       {\large A thesis submitted in partial fulfillment for the \par}
-      {\large degree of Doctor of Philosophy \par}
+      {\large degree of Master of Science \par}
       \bigskip
       \bigskip
       {\large in the \par}
       {\large \facname \par}
       {\large \deptname \par}
+      \vfill
+      {\LARGE Supervisor: Dr Luc Moreau \par}
+      {\LARGE Examiner: Dr Leslie Carr \par}
+      \vfill
       \bigskip
       \bigskip
       \bigskip
@@ -244,7 +249,7 @@
     {\normalsize \facname \par}
     {\normalsize \deptname \par}
     \bigskip
-    {\normalsize Doctor of Philosophy\par}
+    {\normalsize Master of Science\par}
     \bigskip
     {\normalsize\bf \@title \par}
     \medskip

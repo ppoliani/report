@@ -1,0 +1,6 @@
+% Chapter 1
+
+\chapter{Conclusion} % Write in your own chapter title
+\label{Conclusion}
+\lhead{Chapter 6. \emph{Conclusion}} % Write in your own chapter title to set the page header
+

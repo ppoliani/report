@@ -48,7 +48,7 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{2.0ex plus0.5ex minus0.2ex}
 \usepackage{vmargin}
-\setmarginsrb           { 1.5in}  % left margin
+\setmarginsrb           { 1.0in}  % left margin
                         { 0.6in}  % top margin
                         { 1.0in}  % right margin
                         { 0.8in}  % bottom margin
@@ -173,6 +173,7 @@
 \FACULTY     {\texorpdfstring{\href{Faculty Web Site URL Here (include http://)}
                 {FACULTY OF PHYSICAL AND APPLIED SCIENCES}}
                 {FACULTY OF PHYSICAL AND APPLIED SCIENCES}}
+\supervisor  {{Dr. Luc Moreau}}
 \addresses   {}
 \subject     {}
 \keywords    {}
@@ -207,6 +208,10 @@
       {\large in the \par}
       {\large \facname \par}
       {\large \deptname \par}
+      \vfill
+      {\LARGE Supervisor: Dr Luc Moreau \par}
+      {\LARGE Examiner: Dr Leslie Carr \par}
+      \vfill
       \bigskip
       \bigskip
       \bigskip

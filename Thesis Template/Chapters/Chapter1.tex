@@ -1,0 +1,35 @@
+% Chapter 2
+
+\chapter{Introduction} % Write in your own chapter title
+\label{Introduction}
+\lhead{Chapter 1. \emph{Introduction}} % Write in your own chapter title to set the page header
+
+In January 2008, the Higher Educational Funding Council for England (HEFCE) announced that carbon dioxide emissions would be one of the primary criteria for allocating capital funding to the UK universities. Hence, universities have to have plans to reduce their CO2 emissions, through minimizing waste and changing travel habits. In particular, the University of Southampton\footnote{\url{http://www.southampton.ac.uk/carbonmanagement/our_plan/}} plans to reduce its CO2 emissions by 10.400 tonnes by 2020. Thus, a system for monitoring and tracking CO2 emissions is indispensable, so that effective measures can be taken.
+
+This project involves the design, development and deployment of a provenance-aware crowd-sourced system, which will allow any member of an organization, such as Universities, to monitor his carbon emissions. Several tools already exist for that purpose. However, there are several limitations that hinder users from using them. The major one is that it is somewhat difficult to engage users to put much effort in recording their activities (e.g. travels). Some applications try to minimize or even eliminate that effort by applying some quirks. That comes though, at the expense of accurately computing carbon emissions. Other applications track users' geo locations, in order to make educated estimations of the transport means they use. However, this brings several privacy issues onto the table. Finally, a noticeable shortcoming is that there is no application that allows users to review the history of the figures that it computes. In other words, users cannot examine the derivation of the value for their carbon emissions. This feature is vital, since it would allow users make trust judgments about the results computes by the application. Furthermore, comparisons among different calculation methods could be conducted, by following the derivation history of the value in question.
+
+The main objective of the project described in this report is to design and develop an online web application that will, to some extent, consider the aforementioned issues, with emphasis given to the provenance technology.
+
+To sum up, the project involves:
+\begin{itemize}
+  \item 
+        The design and development of a web-based application which users will use to add the trip they make on daily basis. The application will compute individual or groups (within an organization) carbon footprints. A dedicated web page will summarize those computations and present them in a user-friendly manner (e.g. charts). Additionally, the provenance of those values would be possible to be viewed.
+  \item 
+        The development of a mobile version of the application, so that users can use it while their travelling.
+  \item 
+        The design, development and deployment of a server which will control the whole process of storing trip and computing the corresponding carbon emissions.
+  \item The design and development of a provenance software component, which will carry all the provenance-related tasks.
+        
+\end{itemize}
+
+We start in chapter 2 by performing a depth review of the literature found in the provenance and carbon footprint bibliography. We then describe a set of applications that are similar to our application; pros and cons for each are also provided. The chapter ends with a brief description of the tools and libraries that were used during this project.
+
+In chapter 3 a discussion about the application's design phase is given. Various kinds of UML diagrams showing in detail the design of the application, are presented.
+
+Chapter 4 describes the provenance technology in the context of our application. Benefits for embracing a provenance software component are outlined.
+
+The implementation phase is described in chapter 5. This includes several screen shots, showing both the web and mobile application in action. Furthermore, we discuss the evaluation of the application via unit testing and present the results of the accessibility and usability tests. A critical assessment and future worked are highlighted at the end of the chapter.
+
+Finally, a conclusion is given in chapter 6.
+
+

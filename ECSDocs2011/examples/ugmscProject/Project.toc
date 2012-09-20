@@ -1,0 +1,67 @@
+\contentsline {chapter}{Acknowledgements}{xi}{dummy.4}
+\contentsline {chapter}{List of Symbols}{xiii}{dummy.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.8}
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.15}
+\contentsline {section}{\numberline {2.1}Provenance of Electronic Data}{3}{section.16}
+\contentsline {subsection}{\numberline {2.1.1}Provenance in Scientific Workflows and Curated Databases}{3}{subsection.17}
+\contentsline {subsection}{\numberline {2.1.2}Provenance Techniques}{5}{subsection.20}
+\contentsline {subsection}{\numberline {2.1.3}Applications of Provenance}{6}{subsection.22}
+\contentsline {subsection}{\numberline {2.1.4}Subject and Granularity of Provenance Information}{6}{subsection.23}
+\contentsline {subsection}{\numberline {2.1.5}Provenance Representation}{7}{subsection.24}
+\contentsline {subsection}{\numberline {2.1.6}Provenance Dissemination}{8}{subsection.26}
+\contentsline {subsection}{\numberline {2.1.7}Provenance open data models}{8}{subsection.27}
+\contentsline {subsubsection}{\numberline {2.1.7.1}Provenance in Service Oriented Architecture (SOA)}{8}{subsubsection.28}
+\contentsline {paragraph}{Provenance life-cycle}{10}{section*.30}
+\contentsline {paragraph}{A Conceptual Provenance Architecture}{11}{section*.35}
+\contentsline {subsubsection}{\numberline {2.1.7.2}Open Provenance Model}{13}{subsubsection.37}
+\contentsline {subsubsection}{\numberline {2.1.7.3}The W3C Provenance Working Group}{17}{subsubsection.40}
+\contentsline {paragraph}{PROV Data Model}{18}{section*.43}
+\contentsline {paragraph}{Entity Generation and Usage}{19}{section*.45}
+\contentsline {paragraph}{Agents' Responsibility}{20}{section*.46}
+\contentsline {paragraph}{Entity Derivation}{20}{section*.47}
+\contentsline {paragraph}{Roles}{20}{section*.48}
+\contentsline {paragraph}{Plans and Accounts}{20}{section*.49}
+\contentsline {subsection}{\numberline {2.1.8}Security}{21}{subsection.50}
+\contentsline {subsubsection}{\numberline {2.1.8.1}Fundamental concepts}{22}{subsubsection.51}
+\contentsline {subsubsection}{\numberline {2.1.8.2}Cryptography}{22}{subsubsection.52}
+\contentsline {paragraph}{Symmetric Encryption}{23}{section*.53}
+\contentsline {paragraph}{Asymmetric Encryption}{23}{section*.55}
+\contentsline {paragraph}{Digital Signature}{23}{section*.57}
+\contentsline {paragraph}{Asymmetric versus Symmetric Encryption}{24}{section*.59}
+\contentsline {subsubsection}{\numberline {2.1.8.3}Security protocols}{25}{subsubsection.60}
+\contentsline {subsubsection}{\numberline {2.1.8.4}Public key infrastructure}{25}{subsubsection.66}
+\contentsline {subsection}{\numberline {2.1.9}Publishing and querying provenance information}{26}{subsection.68}
+\contentsline {subsubsection}{\numberline {2.1.9.1}Provenance Services}{29}{subsubsection.72}
+\contentsline {section}{\numberline {2.2}Carbon Footprints}{30}{section.75}
+\contentsline {subsection}{\numberline {2.2.1}Fundamental Notions}{31}{subsection.76}
+\contentsline {subsection}{\numberline {2.2.2}Calculating carbon emissions}{31}{subsection.78}
+\contentsline {subsection}{\numberline {2.2.3}Gathering Emissions Sources}{32}{subsection.83}
+\contentsline {subsection}{\numberline {2.2.4}Classifying Emissions}{33}{subsection.84}
+\contentsline {subsection}{\numberline {2.2.5}Calculation Methods}{33}{subsection.85}
+\contentsline {subsection}{\numberline {2.2.6}HEI Scope 3 Carbon Emissions}{34}{subsection.86}
+\contentsline {subsection}{\numberline {2.2.7}Travel emissions calculation}{34}{subsection.88}
+\contentsline {section}{\numberline {2.3}Carbon Footprint Applications}{36}{section.89}
+\contentsline {subsection}{\numberline {2.3.1}CarbonFootPrint.com}{36}{subsection.90}
+\contentsline {subsection}{\numberline {2.3.2}AMEE Location Footprinter}{37}{subsection.94}
+\contentsline {subsection}{\numberline {2.3.3}Ecobot}{37}{subsection.98}
+\contentsline {subsection}{\numberline {2.3.4}The Guardian's Quick Carbon Calculator}{39}{subsection.101}
+\contentsline {subsection}{\numberline {2.3.5}Other Applications}{39}{subsection.104}
+\contentsline {section}{\numberline {2.4}Tools and Libraries}{41}{section.106}
+\contentsline {subsection}{\numberline {2.4.1}Tools Used for Literature Research}{41}{subsection.107}
+\contentsline {subsection}{\numberline {2.4.2}Tools Used During the Application's Design Phase}{41}{subsection.109}
+\contentsline {subsection}{\numberline {2.4.3}Tools and Libraries Used During Application's Implementation Phase}{41}{subsection.111}
+\contentsline {section}{\numberline {2.5}Summary}{41}{section.113}
+\contentsline {chapter}{\numberline {3}Provenance in our Application}{45}{chapter.114}
+\contentsline {section}{\numberline {3.1}introduction}{45}{section.115}
+\contentsline {section}{\numberline {3.2}Benefits of Provenance}{45}{section.116}
+\contentsline {section}{\numberline {3.3}Tracking Provenance}{46}{section.117}
+\contentsline {subsection}{\numberline {3.3.1}Trip Creation Process}{46}{subsection.118}
+\contentsline {subsection}{\numberline {3.3.2}Trip Leg Calculation Process}{47}{subsection.120}
+\contentsline {subsection}{\numberline {3.3.3}Trip Carbon Emissions Calculation Process}{49}{subsection.122}
+\contentsline {subsection}{\numberline {3.3.4}Calculation process for individual and group carbon emissions}{50}{subsection.125}
+\contentsline {section}{\numberline {3.4}Storing Provenance}{52}{section.128}
+\contentsline {section}{\numberline {3.5}Fetching Provenance Information}{52}{section.129}
+\contentsline {section}{\numberline {3.6}Summary}{54}{section.130}
+\contentsline {chapter}{\numberline {4}Conclusions}{55}{chapter.131}
+\contentsline {chapter}{\numberline {A}Stuff}{57}{appendix.132}
+\contentsline {chapter}{References}{59}{dummy.133}

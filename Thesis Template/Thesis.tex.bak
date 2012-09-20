@@ -10,6 +10,8 @@
 \usepackage[square, numbers, comma, sort&compress]{natbib}  % Use the "Natbib" style for the references in the Bibliography
 \usepackage{verbatim}  % Needed for the "comment" environment to make LaTeX comments
 \usepackage{vector}  % Allows "\bvec{}" and "\buvec{}" for "blackboard" style bold vectors in maths
+\usepackage{longtable}
+\usepackage{lscape}
 \hypersetup{urlcolor=blue, colorlinks=true}  % Colours hyperlinks in blue, but this can be distracting if there are many links.
 
 %% ----------------------------------------------------------------
@@ -92,7 +94,10 @@ Mike Berners-Lee
 \abstract{
 \addtocontents{toc}{\vspace{1em}}  % Add a gap in the Contents, for aesthetics
 
-The Thesis Abstract is written here (and usually kept to just this page). The page is kept centered vertically so can expand into the blank space above the title too\ldots
+Human activities have brought severe damages to the environment, over the last century. We all have witnessed that for the past few decades, the anthropogenic environmental impacts have led to severe climate changes. It is therefore more than obvious for us to seriously consider our impact on the environment. The most widespread way to achieve that is to use the term Carbon Footprint for quantifying that impact. There is a vast amount of tools that help us track our carbon footprints. However, the majority of them fail to engage users to insert all the required data for calculating their individual carbon footprints. Furthermore, for some of the tools the calculations are made based on various kinds of estimation, which makes the computed values less accurate and misleading. Finally, according to our best knowledge, there is no a single carbon footprint calculator that allows users to verify and reproduce the computed values.
+
+This report describes the design and implementation of a crowd-sourced web (and mobile) application for monitoring individual and group carbon emissions, caused by travelling activities. The application leverages the provenance technology to allow users to validate and repeat the computational processes.
+
 
 }
 
@@ -127,37 +132,37 @@ The acknowledgements and the people to thank go here, don't forget to include yo
 \listoftables  % Write out the List of Tables
 
 %% ----------------------------------------------------------------
-\setstretch{1.5}  % Set the line spacing to 1.5, this makes the following tables easier to read
-\clearpage  % Start a new page
-\lhead{\emph{Abbreviations}}  % Set the left side page header to "Abbreviations"
-\listofsymbols{ll}  % Include a list of Abbreviations (a table of two columns)
-{
+%\setstretch{1.5}  % Set the line spacing to 1.5, this makes the following tables easier to read
+%\clearpage  % Start a new page
+%\lhead{\emph{Abbreviations}}  % Set the left side page header to "Abbreviations"
+%\listofsymbols{ll}  % Include a list of Abbreviations (a table of two columns)
+%{
 % \textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
-\textbf{LAH} & \textbf{L}ist \textbf{A}bbreviations \textbf{H}ere \\
+%\textbf{LAH} & \textbf{L}ist \textbf{A}bbreviations \textbf{H}ere \\
 
-}
+%}
 
 %% ----------------------------------------------------------------
-\clearpage  % Start a new page
-\lhead{\emph{Physical Constants}}  % Set the left side page header to "Physical Constants"
-\listofconstants{lrcl}  % Include a list of Physical Constants (a four column table)
-{
+%\clearpage  % Start a new page
+%\lhead{\emph{Physical Constants}}  % Set the left side page header to "Physical Constants"
+%\listofconstants{lrcl}  % Include a list of Physical Constants (a four column table)
+%{
 % Constant Name & Symbol & = & Constant Value (with units) \\
-Speed of Light & $c$ & $=$ & $2.997\ 924\ 58\times10^{8}\ \mbox{ms}^{-\mbox{s}}$ (exact)\\
+%Speed of Light & $c$ & $=$ & $2.997\ 924\ 58\times10^{8}\ \mbox{ms}^{-\mbox{s}}$ (exact)\\
 
-}
+%}
 
 %% ----------------------------------------------------------------
-\clearpage  %Start a new page
-\lhead{\emph{Symbols}}  % Set the left side page header to "Symbols"
-\listofnomenclature{lll}  % Include a list of Symbols (a three column table)
-{
+%\clearpage  %Start a new page
+%\lhead{\emph{Symbols}}  % Set the left side page header to "Symbols"
+%\listofnomenclature{lll}  % Include a list of Symbols (a three column table)
+%{
 % symbol & name & unit \\
-$a$ & distance & m \\
-$P$ & power & W (Js$^{-1}$) \\
-& & \\ % Gap to separate the Roman symbols from the Greek
-$\omega$ & angular frequency & rads$^{-1}$ \\
-}
+%$a$ & distance & m \\
+%$P$ & power & W (Js$^{-1}$) \\
+%& & \\ % Gap to separate the Roman symbols from the Greek
+%$\omega$ & angular frequency & rads$^{-1}$ \\
+%}
 %% ----------------------------------------------------------------
 % End of the pre-able, contents and lists of things
 % Begin the Dedication page
@@ -177,17 +182,17 @@ $\omega$ & angular frequency & rads$^{-1}$ \\
 % Include the chapters of the thesis, as separate files
 % Just uncomment the lines as you write the chapters
 
-%\input{./Chapters/Chapter1} % Introduction
+\input{./Chapters/Chapter1} % Introduction
 
 \input{./Chapters/Chapter2} % Background Theory
 
-\input{./Chapters/Chapter3} % Experimental Setup
+\input{./Chapters/Chapter3} % Application Design
 
-%\input{./Chapters/Chapter4} % Experiment 1
+\input{./Chapters/Chapter4} % Provenance in our Application
 
-%\input{./Chapters/Chapter5} % Experiment 2
+\input{./Chapters/Chapter5} % Application Implementation
 
-%\input{./Chapters/Chapter6} % Results and Discussion
+\input{./Chapters/Chapter6} % Conclusion
 
 %\input{./Chapters/Chapter7} % Conclusion
 
@@ -210,7 +215,7 @@ $\omega$ & angular frequency & rads$^{-1}$ \\
 %% ----------------------------------------------------------------
 \label{Bibliography}
 \lhead{\emph{Bibliography}}  % Change the left side page header to "Bibliography"
-\nocite{reference27, reference28, reference29, reference30, reference31, reference32}
+\nocite{reference27, reference28, reference29, reference30, reference31, reference32, reference37}
 \bibliographystyle{unsrtnat}  % Use the "unsrtnat" BibTeX style for formatting the Bibliography
 \bibliography{Bibliography}  % The references (bibliography) information are stored in the file named "Bibliography.bib"
 
